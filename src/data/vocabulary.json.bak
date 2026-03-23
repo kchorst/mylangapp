@@ -1,0 +1,42 @@
+[
+  {
+    "category": "Greetings",
+    "english": "hello",
+    "armenian": "բարև",
+    "russian": "привет",
+    "japanese": "こんにちは",
+    "pronunciation": "ba-rev"
+  },
+  {
+    "category": "Greetings",
+    "english": "good",
+    "armenian": "լավ",
+    "russian": "хорошо",
+    "japanese": "いい",
+    "pronunciation": "lav"
+  },
+  {
+    "category": "Greetings",
+    "english": "bye",
+    "armenian": "ցտեսություն",
+    "russian": "пока",
+    "japanese": "さようなら",
+    "pronunciation": "ts-teh-soo-tyoon"
+  },
+  {
+    "category": "Fun",
+    "english": "awesome",
+    "armenian": "հիանալի",
+    "russian": "классно",
+    "japanese": "すごい",
+    "pronunciation": "hee-a-na-lee"
+  },
+  {
+    "category": "Fun",
+    "english": "funny",
+    "armenian": "ծիծաղելի",
+    "russian": "смешно",
+    "japanese": "おかしい",
+    "pronunciation": "tsi-tsa-ghe-lee"
+  }
+]

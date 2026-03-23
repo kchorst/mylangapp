@@ -1,0 +1,11 @@
+[
+  { "code": "Eng", "label": "English" },
+  { "code": "Arm", "label": "Հայերեն" },
+  { "code": "Geo", "label": "ქართული" },
+  { "code": "Rus", "label": "Русский" },
+  { "code": "Jpn", "label": "日本語" },
+  { "code": "Chn", "label": "中文" },
+  { "code": "Fra", "label": "Français" },
+  { "code": "Spa", "label": "Español" },
+  { "code": "Krw", "label": "Ikinyarwanda" }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "greetings",
+    "label": "Greetings",
+    "examples": ["Hi", "Bye", "What's up"]
+  },
+  {
+    "id": "fun",
+    "label": "Fun",
+    "examples": ["Awesome", "Let's go", "Snazzy"]
+  },
+  {
+    "id": "expressions",
+    "label": "Expressions",
+    "examples": ["Wow", "Yes", "No way"]
+  },
+  {
+    "id": "food",
+    "label": "Food and Drink",
+    "examples": ["Yummy", "Water", "Sweet"]
+  },
+  {
+    "id": "shop",
+    "label": "Shop",
+    "examples": ["Expensive", "How much", "Where"]
+  },
+  {
+    "id": "travel",
+    "label": "Travel",
+    "examples": ["Open", "ATM", "Toilet"]
+  },
+  {
+    "id": "commands",
+    "label": "Commands and Requests",
+    "examples": ["Go", "Stop", "Fix"]
+  },
+  {
+    "id": "address",
+    "label": "Forms of Address",
+    "examples": ["Dude", "Friend", "Sir"]
+  }
+]

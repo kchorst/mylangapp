@@ -1,0 +1,49 @@
+You are a code assistant. Generate a `vocabulary-full.json` file containing the following structure for each vocabulary word:
+
+- category: (from the list below)
+- english: the English word (capitalized)
+- translations: an object with these keys:
+    - armenian: { word, pronunciation }
+    - georgian: { word, pronunciation }
+    - russian: { word, pronunciation }
+    - japanese: { word, pronunciation }
+    - chinese: { word, pronunciation }
+    - kinyarwanda: { word, pronunciation }
+    - french: { word, pronunciation }
+    - spanish: { word, pronunciation }
+
+While this snippet does not include all the languages I have requested, it is structured well so please use this structure and add the missing languages (e.g Georgian, Chinese, French, Spanish, and Kinyarwanda), plus the pronunciations for each:
+
+  {
+    "category": "Greetings",
+    "english": "hello",
+    "armenian": "բարև",
+    "russian": "привет",
+    "japanese": "こんにちは",
+    "pronunciation": "ba-rev"
+  },
+
+
+Use AI-generated approximate translations and readable English-style pronunciation hints for each. Group all entries under their correct category:
+
+Here are the categories and words:
+
+Greetings: what's up, good, OK, So-so, bad, very, nothing new, bye, later, Hi, Hello, name, yo, Hey there!, Beautiful, handsome, grandpa, grandma
+
+Fun: funny, awesome, woops, let's go, amazing, Oh my God, what the hell, mission accomplished, nice, sucks, pay attention, truth bomb, no big deal, surfs up, Cowabunga, snazzy, not my problem, (football) is life
+
+Expressions: wow, amazing, sucks, why though?, not sure, yes, no, definitely, no way, look at that, acceptable, not acceptable, bless you, thanks, now, later, well now, (no) problem, appreciated
+
+Food/drink: yummy, delicious, salty, spicy, sweet, water (cold, hot), coffee, tea, beer, red wine, white wine, chopsticks, fork/spoon/knife, more
+
+Shop: expensive, just looking, this, that, that there, half (kilo), quarter (kilo), more, less, how much, where
+
+Travel: Open/closed, push/pull, free (vacant), which, where, ATM, photograph, drone, To ... (destination), calculator, cellphone, charger, extension cord, toilet, shower, cold, hot, i am before you (in line)
+
+Commands/requests: go, come, point, show (me), be quiet, shut up, fix, start, stop, move
+
+Forms of address: brother (bro), dude, mate, friend, mister, miss, mrs, sir
+
+Include all categories and vocabulary above.
+
+Once done, save it as `vocabulary-full.json` and give me a working download link.

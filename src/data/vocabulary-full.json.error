@@ -1,0 +1,1642 @@
+{
+  "Greetings": [
+    {
+      "category": "Greetings",
+      "english": "WHAT'S UP",
+      "translations": {
+        "armenian": { "word": "Ի՞նչ կա", "pronunciation": "Inch ka?" },
+        "georgian": { "word": "რა ხდება", "pronunciation": "Ra khdeba?" },
+        "russian": { "word": "Что нового?", "pronunciation": "Shto novogo?" },
+        "japanese": { "word": "元気？", "pronunciation": "Genki?" },
+        "chinese": { "word": "你好吗？", "pronunciation": "Nǐ hǎo ma?" },
+        "kinyarwanda": { "word": "Bite?", "pronunciation": "Bite?" },
+        "french": { "word": "Quoi de neuf?", "pronunciation": "Kwah duh nuhf?" },
+        "spanish": { "word": "¿Qué tal?", "pronunciation": "Ke tal?" }
+      }
+    },
+    {
+      "category": "Greetings",
+      "english": "GOOD",
+      "translations": {
+        "armenian": { "word": "Լավ", "pronunciation": "Lav" },
+        "georgian": { "word": "კარგი", "pronunciation": "Kargi" },
+        "russian": { "word": "Хорошо", "pronunciation": "Khorosho" },
+        "japanese": { "word": "良い", "pronunciation": "Yoi" },
+        "chinese": { "word": "好", "pronunciation": "Hǎo" },
+        "kinyarwanda": { "word": "Byiza", "pronunciation": "Byiza" },
+        "french": { "word": "Bien", "pronunciation": "Byan" },
+        "spanish": { "word": "Bien", "pronunciation": "Byen" }
+      }
+    },
+    {
+      "category": "Greetings",
+      "english": "OK",
+      "translations": {
+        "armenian": { "word": "Նորմալ", "pronunciation": "Normal" },
+        "georgian": { "word": "კარგია", "pronunciation": "Kargia" },
+        "russian": { "word": "ОК", "pronunciation": "Ok" },
+        "japanese": { "word": "オーケー", "pronunciation": "Ōkē" },
+        "chinese": { "word": "好的", "pronunciation": "Hǎo de" },
+        "kinyarwanda": { "word": "Sawa", "pronunciation": "Sawa" },
+        "french": { "word": "D'accord", "pronunciation": "Dakore" },
+        "spanish": { "word": "Está bien", "pronunciation": "Esta byen" }
+      }
+    },
+    {
+      "category": "Greetings",
+      "english": "SO-SO",
+      "translations": {
+        "armenian": { "word": "Այսպես ու այնպես", "pronunciation": "Ayspes u aypes" },
+        "georgian": { "word": "არც ისე კარგად", "pronunciation": "Arts ise kargad" },
+        "russian": { "word": "Так себе", "pronunciation": "Tak sebe" },
+        "japanese": { "word": "まあまあ", "pronunciation": "Maa maa" },
+        "chinese": { "word": "马马虎虎", "pronunciation": "Mǎmǎhǔhǔ" },
+        "kinyarwanda": { "word": "Ntibyoroshye", "pronunciation": "Ntibyoroshye" },
+        "french": { "word": "Comme ci, comme ça", "pronunciation": "Kom si, kom sa" },
+        "spanish": { "word": "Más o menos", "pronunciation": "Mas o menos" }
+      }
+    },
+    {
+      "category": "Greetings",
+      "english": "BAD",
+      "translations": {
+        "armenian": { "word": "Վատ", "pronunciation": "Vat" },
+        "georgian": { "word": "ცუდი", "pronunciation": "Tsudi" },
+        "russian": { "word": "Плохо", "pronunciation": "Plokho" },
+        "japanese": { "word": "悪い", "pronunciation": "Warui" },
+        "chinese": { "word": "不好", "pronunciation": "Bù hǎo" },
+        "kinyarwanda": { "word": "Ntabyiza", "pronunciation": "Ntabyiza" },
+        "french": { "word": "Mal", "pronunciation": "Mal" },
+        "spanish": { "word": "Mal", "pronunciation": "Mal" }
+      }
+    },
+    {
+      "category": "Greetings",
+      "english": "VERY",
+      "translations": {
+        "armenian": { "word": "Շատ", "pronunciation": "Shat" },
+        "georgian": { "word": "ძალიან", "pronunciation": "Dzalian" },
+        "russian": { "word": "Очень", "pronunciation": "Ochen" },
+        "japanese": { "word": "とても", "pronunciation": "Totemo" },
+        "chinese": { "word": "很", "pronunciation": "Hěn" },
+        "kinyarwanda": { "word": "Cyane", "pronunciation": "Cyane" },
+        "french": { "word": "Très", "pronunciation": "Treh" },
+        "spanish": { "word": "Muy", "pronunciation": "Mwee" }
+      }
+    },
+    {
+      "category": "Greetings",
+      "english": "NOTHING NEW",
+      "translations": {
+        "armenian": { "word": "Ոչինչ նոր", "pronunciation": "Vochnich nor" },
+        "georgian": { "word": "არაფერი ახალი", "pronunciation": "Araperi akhali" },
+        "russian": { "word": "Ничего нового", "pronunciation": "Nichevo novogo" },
+        "japanese": { "word": "特に何も", "pronunciation": "Tokuni nanimo" },
+        "chinese": { "word": "没什么新鲜的", "pronunciation": "Méi shénme xīnxiān de" },
+        "kinyarwanda": { "word": "Nta kidasanzwe", "pronunciation": "Nta kidasanzwe" },
+        "french": { "word": "Rien de nouveau", "pronunciation": "Ryen duh noovo" },
+        "spanish": { "word": "Nada nuevo", "pronunciation": "Nada nyuevo" }
+      }
+    },
+    {
+      "category": "Greetings",
+      "english": "BYE",
+      "translations": {
+        "armenian": { "word": "Ցտեսություն", "pronunciation": "Tstesutyun" },
+        "georgian": { "word": "ნახვამდის", "pronunciation": "Nakhvamdis" },
+        "russian": { "word": "Пока", "pronunciation": "Poka" },
+        "japanese": { "word": "さようなら", "pronunciation": "Sayounara" },
+        "chinese": { "word": "再见", "pronunciation": "Zàijiàn" },
+        "kinyarwanda": { "word": "Murabeho", "pronunciation": "Murabeho" },
+        "french": { "word": "Au revoir", "pronunciation": "O revoir" },
+        "spanish": { "word": "Adiós", "pronunciation": "Adios" }
+      }
+    },
+    {
+      "category": "Greetings",
+      "english": "LATER",
+      "translations": {
+        "armenian": { "word": "Հետո", "pronunciation": "Heto" },
+        "georgian": { "word": "მოგვიანებით", "pronunciation": "Mogvianebit" },
+        "russian": { "word": "Позже", "pronunciation": "Pozzhe" },
+        "japanese": { "word": "またね", "pronunciation": "Mata ne" },
+        "chinese": { "word": "待会儿", "pronunciation": "Dài huì'er" },
+        "kinyarwanda": { "word": "Nyuma", "pronunciation": "Nyuma" },
+        "french": { "word": "Plus tard", "pronunciation": "Plu tar" },
+        "spanish": { "word": "Más tarde", "pronunciation": "Mas tarde" }
+      }
+    },
+    {
+      "category": "Greetings",
+      "english": "HI",
+      "translations": {
+        "armenian": { "word": "Բարեւ", "pronunciation": "Barev" },
+        "georgian": { "word": "გამარჯობა", "pronunciation": "Gamarjoba" },
+        "russian": { "word": "Привет", "pronunciation": "Privet" },
+        "japanese": { "word": "こんにちは", "pronunciation": "Konnichiwa" },
+        "chinese": { "word": "嗨", "pronunciation": "Hāi" },
+        "kinyarwanda": { "word": "Muraho", "pronunciation": "Muraho" },
+        "french": { "word": "Salut", "pronunciation": "Salyu" },
+        "spanish": { "word": "Hola", "pronunciation": "Ola" }
+      }
+    },
+    {
+      "category": "Greetings",
+      "english": "HELLO",
+      "translations": {
+        "armenian": { "word": "Բարեւ", "pronunciation": "Barev" },
+        "georgian": { "word": "გამარჯობა", "pronunciation": "Gamarjoba" },
+        "russian": { "word": "Здравствуйте", "pronunciation": "Zdravstvuyte" },
+        "japanese": { "word": "こんにちは", "pronunciation": "Konnichiwa" },
+        "chinese": { "word": "你好", "pronunciation": "Nǐ hǎo" },
+        "kinyarwanda": { "word": "Muraho", "pronunciation": "Muraho" },
+        "french": { "word": "Bonjour", "pronunciation": "Bonzhur" },
+        "spanish": { "word": "Hola", "pronunciation": "Ola" }
+      }
+    },
+    {
+      "category": "Greetings",
+      "english": "NAME",
+      "translations": {
+        "armenian": { "word": "Անուն", "pronunciation": "Anun" },
+        "georgian": { "word": "სახელი", "pronunciation": "Sakheli" },
+        "russian": { "word": "Имя", "pronunciation": "Imya" },
+        "japanese": { "word": "名前", "pronunciation": "Namae" },
+        "chinese": { "word": "名字", "pronunciation": "Míngzi" },
+        "kinyarwanda": { "word": "Izina", "pronunciation": "Izina" },
+        "french": { "word": "Nom", "pronunciation": "Nom" },
+        "spanish": { "word": "Nombre", "pronunciation": "Nombre" }
+      }
+    },
+    {
+      "category": "Greetings",
+      "english": "YO",
+      "translations": {
+        "armenian": { "word": "Հեյ", "pronunciation": "Hey" },
+        "georgian": { "word": "ეი", "pronunciation": "Ey" },
+        "russian": { "word": "Йо", "pronunciation": "Yo" },
+        "japanese": { "word": "よお", "pronunciation": "Yoo" },
+        "chinese": { "word": "哟", "pronunciation": "Yō" },
+        "kinyarwanda": { "word": "Yoo", "pronunciation": "Yoo" },
+        "french": { "word": "Yo", "pronunciation": "Yo" },
+        "spanish": { "word": "Ey", "pronunciation": "Ey" }
+      }
+    },
+    {
+      "category": "Greetings",
+      "english": "HEY THERE!",
+      "translations": {
+        "armenian": { "word": "Բարեւ ձեզ", "pronunciation": "Barev dzez" },
+        "georgian": { "word": "გამარჯობა!", "pronunciation": "Gamarjoba!" },
+        "russian": { "word": "Привет!", "pronunciation": "Privet!" },
+        "japanese": { "word": "やあ！", "pronunciation": "Yaa!" },
+        "chinese": { "word": "嘿！", "pronunciation": "Hēi!" },
+        "kinyarwanda": { "word": "Amakuru!", "pronunciation": "Amakuru!" },
+        "french": { "word": "Salut!", "pronunciation": "Salyu!" },
+        "spanish": { "word": "¡Hola!", "pronunciation": "Ola!" }
+      }
+    },
+    {
+      "category": "Greetings",
+      "english": "BEAUTIFUL",
+      "translations": {
+        "armenian": { "word": "Գեղեցիկ", "pronunciation": "Geghhetsik" },
+        "georgian": { "word": "ლამაზი", "pronunciation": "Lamazi" },
+        "russian": { "word": "Красивый", "pronunciation": "Krasivyy" },
+        "japanese": { "word": "美しい", "pronunciation": "Utsukushii" },
+        "chinese": { "word": "美丽的", "pronunciation": "Měilì de" },
+        "kinyarwanda": { "word": "Mwiza", "pronunciation": "Mwiza" },
+        "french": { "word": "Belle", "pronunciation": "Bel" },
+        "spanish": { "word": "Hermoso", "pronunciation": "Ermoso" }
+      }
+    },
+    {
+      "category": "Greetings",
+      "english": "HANDSOME",
+      "translations": {
+        "armenian": { "word": "Գեղեցիկ", "pronunciation": "Geghhetsik" },
+        "georgian": { "word": "ლამაზი", "pronunciation": "Lamazi" },
+        "russian": { "word": "Красивый", "pronunciation": "Krasivyy" },
+        "japanese": { "word": "ハンサム", "pronunciation": "Hansamu" },
+        "chinese": { "word": "英俊的", "pronunciation": "Yīngjùn de" },
+        "kinyarwanda": { "word": "Mwiza", "pronunciation": "Mwiza" },
+        "french": { "word": "Beau", "pronunciation": "Bo" },
+        "spanish": { "word": "Guapo", "pronunciation": "Guapo" }
+      }
+    },
+    {
+      "category": "Greetings",
+      "english": "GRANDPA",
+      "translations": {
+        "armenian": { "word": "Պապիկ", "pronunciation": "Papik" },
+        "georgian": { "word": "ბაბუა", "pronunciation": "Babua" },
+        "russian": { "word": "Дедушка", "pronunciation": "Dedushka" },
+        "japanese": { "word": "おじいちゃん", "pronunciation": "Ojiichan" },
+        "chinese": { "word": "爷爷", "pronunciation": "Yéye" },
+        "kinyarwanda": { "word": "Sogokuru", "pronunciation": "Sogokuru" },
+        "french": { "word": "Papi", "pronunciation": "Papi" },
+        "spanish": { "word": "Abuelo", "pronunciation": "Abuelo" }
+      }
+    },
+    {
+      "category": "Greetings",
+      "english": "GRANDMA",
+      "translations": {
+        "armenian": { "word": "Տատիկ", "pronunciation": "Tatik" },
+        "georgian": { "word": "ბებია", "pronunciation": "Bebia" },
+        "russian": { "word": "Бабушка", "pronunciation": "Babushka" },
+        "japanese": { "word": "おばあちゃん", "pronunciation": "Obaachan" },
+        "chinese": { "word": "奶奶", "pronunciation": "Nǎinai" },
+        "kinyarwanda": { "word": "Nyogokuru", "pronunciation": "Nyogokuru" },
+        "french": { "word": "Mamie", "pronunciation": "Mami" },
+        "spanish": { "word": "Abuela", "pronunciation": "Abuela" }
+      }
+    }
+  ],
+  "Fun": [
+    {
+      "category": "Fun",
+      "english": "FUNNY",
+      "translations": {
+        "armenian": { "word": "Զվարճալի", "pronunciation": "Zvartchali" },
+        "georgian": { "word": "მხიარული", "pronunciation": "Mkhiaruli" },
+        "russian": { "word": "Смешной", "pronunciation": "Smeshnoy" },
+        "japanese": { "word": "面白い", "pronunciation": "Omoshiroi" },
+        "chinese": { "word": "好笑的", "pronunciation": "Hǎo xiào de" },
+        "kinyarwanda": { "word": "Gisekeje", "pronunciation": "Gisekeje" },
+        "french": { "word": "Drôle", "pronunciation": "Drol" },
+        "spanish": { "word": "Divertido", "pronunciation": "Divertido" }
+      }
+    },
+    {
+      "category": "Fun",
+      "english": "AWESOME",
+      "translations": {
+        "armenian": { "word": "Հիասքանչ", "pronunciation": "Hiasqanch" },
+        "georgian": { "word": "შესანიშნავი", "pronunciation": "Shesanishnavi" },
+        "russian": { "word": "Потрясающе", "pronunciation": "Potryasayushche" },
+        "japanese": { "word": "すごい", "pronunciation": "Sugoi" },
+        "chinese": { "word": "太棒了", "pronunciation": "Tài bàng le" },
+        "kinyarwanda": { "word": "Birakomeye", "pronunciation": "Birakomeye" },
+        "french": { "word": "Génial", "pronunciation": "Zhenial" },
+        "spanish": { "word": "Impresionante", "pronunciation": "Impresionante" }
+      }
+    },
+    {
+      "category": "Fun",
+      "english": "WOOPS",
+      "translations": {
+        "armenian": { "word": "Ուփս", "pronunciation": "Uphs" },
+        "georgian": { "word": "უი", "pronunciation": "Ui" },
+        "russian": { "word": "Ой", "pronunciation": "Oy" },
+        "japanese": { "word": "おっと", "pronunciation": "Otto" },
+        "chinese": { "word": "哎哟", "pronunciation": "Āiyō" },
+        "kinyarwanda": { "word": "Oops", "pronunciation": "Oops" },
+        "french": { "word": "Oups", "pronunciation": "Oups" },
+        "spanish": { "word": "Ups", "pronunciation": "Ups" }
+      }
+    },
+    {
+      "category": "Fun",
+      "english": "LET'S GO",
+      "translations": {
+        "armenian": { "word": "Գնացինք", "pronunciation": "Gnotsinq" },
+        "georgian": { "word": "წავიდეთ", "pronunciation": "Tsavidet" },
+        "russian": { "word": "Пошли", "pronunciation": "Poshli" },
+        "japanese": { "word": "行こう", "pronunciation": "Ikō" },
+        "chinese": { "word": "我们走吧", "pronunciation": "Wǒmen zǒu ba" },
+        "kinyarwanda": { "word": "Tugende", "pronunciation": "Tugende" },
+        "french": { "word": "Allons-y", "pronunciation": "Alon-zi" },
+        "spanish": { "word": "Vamos", "pronunciation": "Vamos" }
+      }
+    },
+    {
+      "category": "Fun",
+      "english": "AMAZING",
+      "translations": {
+        "armenian": { "word": "Զարմանալի", "pronunciation": "Zarmanali" },
+        "georgian": { "word": "საოცარი", "pronunciation": "Saotsari" },
+        "russian": { "word": "Удивительно", "pronunciation": "Udivitel'no" },
+        "japanese": { "word": "素晴らしい", "pronunciation": "Subarashii" },
+        "chinese": { "word": "令人惊叹", "pronunciation": "Lìng rén jīngtàn" },
+        "kinyarwanda": { "word": "Bitangaje", "pronunciation": "Bitangaje" },
+        "french": { "word": "Incroyable", "pronunciation": "Enkroyabl" },
+        "spanish": { "word": "Increíble", "pronunciation": "Inkreyble" }
+      }
+    },
+    {
+      "category": "Fun",
+      "english": "OH MY GOD",
+      "translations": {
+        "armenian": { "word": "Օ՜, Աստված իմ", "pronunciation": "O, Astvats im" },
+        "georgian": { "word": "ღმერთო ჩემო", "pronunciation": "Ghmerto chemo" },
+        "russian": { "word": "О, боже мой", "pronunciation": "O, bozhe moy" },
+        "japanese": { "word": "なんてことだ", "pronunciation": "Nante koto da" },
+        "chinese": { "word": "哦，我的天", "pronunciation": "Ō, wǒ de tiān" },
+        "kinyarwanda": { "word": "Mana yanjye", "pronunciation": "Mana yanjye" },
+        "french": { "word": "Oh mon Dieu", "pronunciation": "O mon Dyo" },
+        "spanish": { "word": "¡Oh Dios mío!", "pronunciation": "O Dyos mio!" }
+      }
+    },
+    {
+      "category": "Fun",
+      "english": "WHAT THE HELL",
+      "translations": {
+        "armenian": { "word": "Ի՞նչ է սա", "pronunciation": "Inch e sa?" },
+        "georgian": { "word": "რა ჯანდაბაა", "pronunciation": "Ra jandabaa" },
+        "russian": { "word": "Что за чертовщина", "pronunciation": "Shto za chertovshchina" },
+        "japanese": { "word": "一体何だ", "pronunciation": "Ittai nan da" },
+        "chinese": { "word": "搞什么鬼", "pronunciation": "Gǎo shénme guǐ" },
+        "kinyarwanda": { "word": "Ni iki se?", "pronunciation": "Ni iki se?" },
+        "french": { "word": "Qu'est-ce que c'est que ça", "pronunciation": "Kes kuh say kuh sa" },
+        "spanish": { "word": "¿Qué demonios?", "pronunciation": "Ke demonios?" }
+      }
+    },
+    {
+      "category": "Fun",
+      "english": "MISSION ACCOMPLISHED",
+      "translations": {
+        "armenian": { "word": "Առաքելությունն ավարտված է", "pronunciation": "Arrakyelutyunn avartvats e" },
+        "georgian": { "word": "მისია შესრულებულია", "pronunciation": "Misia shesrulia" },
+        "russian": { "word": "Миссия выполнена", "pronunciation": "Missiya vypolnena" },
+        "japanese": { "word": "任務完了", "pronunciation": "Ninmu kanryō" },
+        "chinese": { "word": "任务完成", "pronunciation": "Rènwù wánchéng" },
+        "kinyarwanda": { "word": "Ubutumwa burangiye", "pronunciation": "Ubutumwa burangiye" },
+        "french": { "word": "Mission accomplie", "pronunciation": "Mision akonpli" },
+        "spanish": { "word": "Misión cumplida", "pronunciation": "Mision kumplida" }
+      }
+    },
+    {
+      "category": "Fun",
+      "english": "NICE",
+      "translations": {
+        "armenian": { "word": "Լավ", "pronunciation": "Lav" },
+        "georgian": { "word": "კარგი", "pronunciation": "Kargi" },
+        "russian": { "word": "Приятно", "pronunciation": "Priyatno" },
+        "japanese": { "word": "いいね", "pronunciation": "Ii ne" },
+        "chinese": { "word": "好的", "pronunciation": "Hǎo de" },
+        "kinyarwanda": { "word": "Byiza", "pronunciation": "Byiza" },
+        "french": { "word": "Bien", "pronunciation": "Byan" },
+        "spanish": { "word": "Bonito", "pronunciation": "Bonito" }
+      }
+    },
+    {
+      "category": "Fun",
+      "english": "SUCKS",
+      "translations": {
+        "armenian": { "word": "Վատ է", "pronunciation": "Vat e" },
+        "georgian": { "word": "ცუდია", "pronunciation": "Tsudia" },
+        "russian": { "word": "Отстой", "pronunciation": "Otstoy" },
+        "japanese": { "word": "最悪", "pronunciation": "Saiaku" },
+        "chinese": { "word": "真糟糕", "pronunciation": "Zhēn zāogāo" },
+        "kinyarwanda": { "word": "Birakaze", "pronunciation": "Birakaze" },
+        "french": { "word": "Nul", "pronunciation": "Nul" },
+        "spanish": { "word": "Apesta", "pronunciation": "Apesta" }
+      }
+    },
+    {
+      "category": "Fun",
+      "english": "PAY ATTENTION",
+      "translations": {
+        "armenian": { "word": "Ուշադրություն", "pronunciation": "Ushadrutyun" },
+        "georgian": { "word": "ყურადღება მიაქციე", "pronunciation": "Khuradgeba miaktsie" },
+        "russian": { "word": "Обрати внимание", "pronunciation": "Obrati vnimaniye" },
+        "japanese": { "word": "注意して", "pronunciation": "Chūi shite" },
+        "chinese": { "word": "注意", "pronunciation": "Zhùyì" },
+        "kinyarwanda": { "word": "Witondere", "pronunciation": "Witondere" },
+        "french": { "word": "Fais attention", "pronunciation": "Feh zatansion" },
+        "spanish": { "word": "Presta atención", "pronunciation": "Presta atencion" }
+      }
+    },
+    {
+      "category": "Fun",
+      "english": "TRUTH BOMB",
+      "translations": {
+        "armenian": { "word": "Ճշմարտության ռումբ", "pronunciation": "Chshmartutyan rumb" },
+        "georgian": { "word": "სიმართლის ბომბი", "pronunciation": "Simartlis bombi" },
+        "russian": { "word": "Бомба правды", "pronunciation": "Bomba pravdy" },
+        "japanese": { "word": "真実爆弾", "pronunciation": "Shinjitsu bakudan" },
+        "chinese": { "word": "真相炸弹", "pronunciation": "Zhēnxiàng zhàdàn" },
+        "kinyarwanda": { "word": "Ibombe y'ukuri", "pronunciation": "Ibombe y'ukuri" },
+        "french": { "word": "Bombe de vérité", "pronunciation": "Bomb duh veriteh" },
+        "spanish": { "word": "Bomba de la verdad", "pronunciation": "Bomba de la verdad" }
+      }
+    },
+    {
+      "category": "Fun",
+      "english": "NO BIG DEAL",
+      "translations": {
+        "armenian": { "word": "Մեծ բան չէ", "pronunciation": "Mets ban che" },
+        "georgian": { "word": "არაფერი განსაკუთრებული", "pronunciation": "Araperi gansakutrebuli" },
+        "russian": { "word": "Ничего страшного", "pronunciation": "Nichevo strashnogo" },
+        "japanese": { "word": "大したことない", "pronunciation": "Taishita koto nai" },
+        "chinese": { "word": "没什么大不了的", "pronunciation": "Méi shénme dàbùliǎo de" },
+        "kinyarwanda": { "word": "Ntabwo ari ikibazo gikomeye", "pronunciation": "Ntabwo ari ikibazo gikomeye" },
+        "french": { "word": "Pas grave", "pronunciation": "Pa grav" },
+        "spanish": { "word": "No es para tanto", "pronunciation": "No es para tanto" }
+      }
+    },
+    {
+      "category": "Fun",
+      "english": "SURFS UP",
+      "translations": {
+        "armenian": { "word": "Ալիքներ կան", "pronunciation": "Aliqner kan" },
+        "georgian": { "word": "ტალღებია", "pronunciation": "Talghebiya" },
+        "russian": { "word": "Вставай на доску", "pronunciation": "Vstavay na dosku" },
+        "japanese": { "word": "波が来た", "pronunciation": "Nami ga kita" },
+        "chinese": { "word": "冲浪去", "pronunciation": "Chōnglàng qù" },
+        "kinyarwanda": { "word": "Koga ku mazi", "pronunciation": "Koga ku mazi" },
+        "french": { "word": "Les vagues sont là", "pronunciation": "Leh vag son la" },
+        "spanish": { "word": "Hay olas", "pronunciation": "Ay olas" }
+      }
+    },
+    {
+      "category": "Fun",
+      "english": "COWABUNGA",
+      "translations": {
+        "armenian": { "word": "Քովաբունգա", "pronunciation": "Qovabunga" },
+        "georgian": { "word": "ქოვაბუნგა", "pronunciation": "Kowabunga" },
+        "russian": { "word": "Ковабанга", "pronunciation": "Kovabanga" },
+        "japanese": { "word": "コワバンガ", "pronunciation": "Kowabanga" },
+        "chinese": { "word": "考瓦邦嘎", "pronunciation": "Kǎowǎbānggā" },
+        "kinyarwanda": { "word": "Cowabunga", "pronunciation": "Cowabunga" },
+        "french": { "word": "Cowabunga", "pronunciation": "Kowabunga" },
+        "spanish": { "word": "Cowabunga", "pronunciation": "Kowabunga" }
+      }
+    },
+    {
+      "category": "Fun",
+      "english": "SNAZZY",
+      "translations": {
+        "armenian": { "word": "Շքեղ", "pronunciation": "Shqegh" },
+        "georgian": { "word": "გამორჩეული", "pronunciation": "Gamorcheuli" },
+        "russian": { "word": "Шикарный", "pronunciation": "Shikarnyy" },
+        "japanese": { "word": "おしゃれな", "pronunciation": "Oshare na" },
+        "chinese": { "word": "时髦的", "pronunciation": "Shímáo de" },
+        "kinyarwanda": { "word": "Igitaramo", "pronunciation": "Igitaramo" },
+        "french": { "word": "Élégant", "pronunciation": "Elegon" },
+        "spanish": { "word": "Elegante", "pronunciation": "Elegante" }
+      }
+    },
+    {
+      "category": "Fun",
+      "english": "NOT MY PROBLEM",
+      "translations": {
+        "armenian": { "word": "Իմ խնդիրը չէ", "pronunciation": "Im khndir'y che" },
+        "georgian": { "word": "ჩემი პრობლემა არ არის", "pronunciation": "Chemi problema ar aris" },
+        "russian": { "word": "Не моя проблема", "pronunciation": "Ne moya problema" },
+        "japanese": { "word": "私の問題じゃない", "pronunciation": "Watashi no mondai ja nai" },
+        "chinese": { "word": "不是我的问题", "pronunciation": "Bù shì wǒ de wèntí" },
+        "kinyarwanda": { "word": "Si ikibazo cyanjye", "pronunciation": "Si ikibazo cyanjye" },
+        "french": { "word": "Ce n'est pas mon problème", "pronunciation": "Suh neh pa mon problem" },
+        "spanish": { "word": "No es mi problema", "pronunciation": "No es mi problema" }
+      }
+    },
+    {
+      "category": "Fun",
+      "english": "(FOOTBALL) IS LIFE",
+      "translations": {
+        "armenian": { "word": "Ֆուտբոլը կյանք է", "pronunciation": "Futboly kyanq e" },
+        "georgian": { "word": "ფეხბურთი სიცოცხლეა", "pronunciation": "Pekhburti sitsotskhlea" },
+        "russian": { "word": "Футбол - это жизнь", "pronunciation": "Futbol - eto zhizn'" },
+        "japanese": { "word": "サッカーは人生", "pronunciation": "Sakkā wa jinsei" },
+        "chinese": { "word": "足球是生命", "pronunciation": "Zúqiú shì shēngmìng" },
+        "kinyarwanda": { "word": "Umupira w'amaguru ni ubuzima", "pronunciation": "Umupira w'amaguru ni ubuzima" },
+        "french": { "word": "Le football, c'est la vie", "pronunciation": "Luh futbol, seh la vi" },
+        "spanish": { "word": "El fútbol es vida", "pronunciation": "El futbol es vida" }
+      }
+    }
+  ],
+  "Expressions": [
+    {
+      "category": "Expressions",
+      "english": "WOW",
+      "translations": {
+        "armenian": { "word": "Վա՜ու", "pronunciation": "Vau!" },
+        "georgian": { "word": "ვაუ", "pronunciation": "Vau" },
+        "russian": { "word": "Вау", "pronunciation": "Vau" },
+        "japanese": { "word": "わあ", "pronunciation": "Waa" },
+        "chinese": { "word": "哇", "pronunciation": "Wa" },
+        "kinyarwanda": { "word": "Woo", "pronunciation": "Woo" },
+        "french": { "word": "Wow", "pronunciation": "Wouah" },
+        "spanish": { "word": "Guau", "pronunciation": "Guau" }
+      }
+    },
+    {
+      "category": "Expressions",
+      "english": "AMAZING",
+      "translations": {
+        "armenian": { "word": "Զարմանալի", "pronunciation": "Zarmanali" },
+        "georgian": { "word": "საოცარი", "pronunciation": "Saotsari" },
+        "russian": { "word": "Удивительно", "pronunciation": "Udivitel'no" },
+        "japanese": { "word": "素晴らしい", "pronunciation": "Subarashii" },
+        "chinese": { "word": "令人惊叹", "pronunciation": "Lìng rén jīngtàn" },
+        "kinyarwanda": { "word": "Bitangaje", "pronunciation": "Bitangaje" },
+        "french": { "word": "Incroyable", "pronunciation": "Enkroyabl" },
+        "spanish": { "word": "Increíble", "pronunciation": "Inkreyble" }
+      }
+    },
+    {
+      "category": "Expressions",
+      "english": "SUCKS",
+      "translations": {
+        "armenian": { "word": "Վատ է", "pronunciation": "Vat e" },
+        "georgian": { "word": "ცუდია", "pronunciation": "Tsudia" },
+        "russian": { "word": "Отстой", "pronunciation": "Otstoy" },
+        "japanese": { "word": "最悪", "pronunciation": "Saiaku" },
+        "chinese": { "word": "真糟糕", "pronunciation": "Zhēn zāogāo" },
+        "kinyarwanda": { "word": "Birakaze", "pronunciation": "Birakaze" },
+        "french": { "word": "Nul", "pronunciation": "Nul" },
+        "spanish": { "word": "Apesta", "pronunciation": "Apesta" }
+      }
+    },
+    {
+      "category": "Expressions",
+      "english": "WHY THOUGH?",
+      "translations": {
+        "armenian": { "word": "Ինչու՞", "pronunciation": "Inch'u?" },
+        "georgian": { "word": "რატომ მაინცდამაინც?", "pronunciation": "Ratom maintsdamaints?" },
+        "russian": { "word": "Почему же?", "pronunciation": "Pochemu zhe?" },
+        "japanese": { "word": "でもなぜ？", "pronunciation": "Demo naze?" },
+        "chinese": { "word": "但为什么？", "pronunciation": "Dàn wèishénme?" },
+        "kinyarwanda": { "word": "Kuki se?", "pronunciation": "Kuki se?" },
+        "french": { "word": "Mais pourquoi?", "pronunciation": "Meh purkwa?" },
+        "spanish": { "word": "¿Por qué?", "pronunciation": "Por ke?" }
+      }
+    },
+    {
+      "category": "Expressions",
+      "english": "NOT SURE",
+      "translations": {
+        "armenian": { "word": "Վստահ չեմ", "pronunciation": "Vstah chem" },
+        "georgian": { "word": "არ ვარ დარწმუნებული", "pronunciation": "Ar var dartsmunebuli" },
+        "russian": { "word": "Не уверен", "pronunciation": "Ne uveren" },
+        "japanese": { "word": "よくわからない", "pronunciation": "Yoku wakaranai" },
+        "chinese": { "word": "不确定", "pronunciation": "Bù quèdìng" },
+        "kinyarwanda": { "word": "Sindabyizera", "pronunciation": "Sindabyizera" },
+        "french": { "word": "Pas sûr", "pronunciation": "Pa syur" },
+        "spanish": { "word": "No estoy seguro", "pronunciation": "No estoy seguro" }
+      }
+    },
+    {
+      "category": "Expressions",
+      "english": "YES",
+      "translations": {
+        "armenian": { "word": "Այո", "pronunciation": "Ayo" },
+        "georgian": { "word": "დიახ", "pronunciation": "Diakh" },
+        "russian": { "word": "Да", "pronunciation": "Da" },
+        "japanese": { "word": "はい", "pronunciation": "Hai" },
+        "chinese": { "word": "是", "pronunciation": "Shì" },
+        "kinyarwanda": { "word": "Yego", "pronunciation": "Yego" },
+        "french": { "word": "Oui", "pronunciation": "Wi" },
+        "spanish": { "word": "Sí", "pronunciation": "Si" }
+      }
+    },
+    {
+      "category": "Expressions",
+      "english": "NO",
+      "translations": {
+        "armenian": { "word": "Ոչ", "pronunciation": "Voch" },
+        "georgian": { "word": "არა", "pronunciation": "Ara" },
+        "russian": { "word": "Нет", "pronunciation": "Net" },
+        "japanese": { "word": "いいえ", "pronunciation": "Iie" },
+        "chinese": { "word": "不", "pronunciation": "Bù" },
+        "kinyarwanda": { "word": "Oya", "pronunciation": "Oya" },
+        "french": { "word": "Non", "pronunciation": "Non" },
+        "spanish": { "word": "No", "pronunciation": "No" }
+      }
+    },
+    {
+      "category": "Expressions",
+      "english": "DEFINITELY",
+      "translations": {
+        "armenian": { "word": "Անպայման", "pronunciation": "Anpayman" },
+        "georgian": { "word": "აუცილებლად", "pronunciation": "Autsileblad" },
+        "russian": { "word": "Определенно", "pronunciation": "Opredelenno" },
+        "japanese": { "word": "間違いなく", "pronunciation": "Machigai naku" },
+        "chinese": { "word": "当然", "pronunciation": "Dāngrán" },
+        "kinyarwanda": { "word": "Rwose", "pronunciation": "Rwose" },
+        "french": { "word": "Certainement", "pronunciation": "Sertenmon" },
+        "spanish": { "word": "Definitivamente", "pronunciation": "Definitivamente" }
+      }
+    },
+    {
+      "category": "Expressions",
+      "english": "NO WAY",
+      "translations": {
+        "armenian": { "word": "Ոչ մի դեպքում", "pronunciation": "Voch mi depqum" },
+        "georgian": { "word": "გამორიცხულია", "pronunciation": "Gamoritskhulia" },
+        "russian": { "word": "Ни за что", "pronunciation": "Ni za chto" },
+        "japanese": { "word": "まさか", "pronunciation": "Masaka" },
+        "chinese": { "word": "不可能", "pronunciation": "Bù kěnéng" },
+        "kinyarwanda": { "word": "Oya rwose", "pronunciation": "Oya rwose" },
+        "french": { "word": "Pas question", "pronunciation": "Pa kestion" },
+        "spanish": { "word": "De ninguna manera", "pronunciation": "De ninguna manera" }
+      }
+    },
+    {
+      "category": "Expressions",
+      "english": "LOOK AT THAT",
+      "translations": {
+        "armenian": { "word": "Նայեք դրան", "pronunciation": "Nayek dran" },
+        "georgian": { "word": "შეხედე მაგას", "pronunciation": "Shekhede magas" },
+        "russian": { "word": "Посмотри на это", "pronunciation": "Posmotri na eto" },
+        "japanese": { "word": "あれを見て", "pronunciation": "Are o mite" },
+        "chinese": { "word": "看那个", "pronunciation": "Kàn nàgè" },
+        "kinyarwanda": { "word": "Reba iryo", "pronunciation": "Reba iryo" },
+        "french": { "word": "Regarde ça", "pronunciation": "Regard sa" },
+        "spanish": { "word": "Mira eso", "pronunciation": "Mira eso" }
+      }
+    },
+    {
+      "category": "Expressions",
+      "english": "ACCEPTABLE",
+      "translations": {
+        "armenian": { "word": "Ընդունելի", "pronunciation": "Ynduneli" },
+        "georgian": { "word": "მისაღები", "pronunciation": "Misaghebi" },
+        "russian": { "word": "Приемлемо", "pronunciation": "Priemlemo" },
+        "japanese": { "word": "許容できる", "pronunciation": "Kyoyō dekiru" },
+        "chinese": { "word": "可接受的", "pronunciation": "Kě jiēshòu de" },
+        "kinyarwanda": { "word": "Byemewe", "pronunciation": "Byemewe" },
+        "french": { "word": "Acceptable", "pronunciation": "Akseptabl" },
+        "spanish": { "word": "Aceptable", "pronunciation": "Aseptable" }
+      }
+    },
+    {
+      "category": "Expressions",
+      "english": "NOT ACCEPTABLE",
+      "translations": {
+        "armenian": { "word": "Անընդունելի", "pronunciation": "Anenduneli" },
+        "georgian": { "word": "მიუღებელი", "pronunciation": "Miughebeli" },
+        "russian": { "word": "Неприемлемо", "pronunciation": "Nepriyemlemo" },
+        "japanese": { "word": "許容できない", "pronunciation": "Kyoyō dekinai" },
+        "chinese": { "word": "不可接受的", "pronunciation": "Bù kě jiēshòu de" },
+        "kinyarwanda": { "word": "Ntabwo byemewe", "pronunciation": "Ntabwo byemewe" },
+        "french": { "word": "Inacceptable", "pronunciation": "Inakseptabl" },
+        "spanish": { "word": "Inaceptable", "pronunciation": "Inaceptable" }
+      }
+    },
+    {
+      "category": "Expressions",
+      "english": "BLESS YOU",
+      "translations": {
+        "armenian": { "word": "Առողջություն", "pronunciation": "Arroghjutyun" },
+        "georgian": { "word": "ღმერთმა დაგლოცოს", "pronunciation": "Ghmertma daglotsos" },
+        "russian": { "word": "Будьте здоровы", "pronunciation": "Bud'te zdorovy" },
+        "japanese": { "word": "お大事に", "pronunciation": "Odaijini" },
+        "chinese": { "word": "保重", "pronunciation": "Bǎozhòng" },
+        "kinyarwanda": { "word": "Imana ikurinde", "pronunciation": "Imana ikurinde" },
+        "french": { "word": "À tes souhaits", "pronunciation": "A teh suet" },
+        "spanish": { "word": "Salud", "pronunciation": "Salud" }
+      }
+    },
+    {
+      "category": "Expressions",
+      "english": "THANKS",
+      "translations": {
+        "armenian": { "word": "Շնորհակալություն", "pronunciation": "Shnorhakalutyun" },
+        "georgian": { "word": "მადლობა", "pronunciation": "Madloba" },
+        "russian": { "word": "Спасибо", "pronunciation": "Spasibo" },
+        "japanese": { "word": "ありがとう", "pronunciation": "Arigatō" },
+        "chinese": { "word": "谢谢", "pronunciation": "Xièxie" },
+        "kinyarwanda": { "word": "Murakoze", "pronunciation": "Murakoze" },
+        "french": { "word": "Merci", "pronunciation": "Mersi" },
+        "spanish": { "word": "Gracias", "pronunciation": "Grasias" }
+      }
+    },
+    {
+      "category": "Expressions",
+      "english": "NOW",
+      "translations": {
+        "armenian": { "word": "Հիմա", "pronunciation": "Hima" },
+        "georgian": { "word": "ახლა", "pronunciation": "Akhla" },
+        "russian": { "word": "Сейчас", "pronunciation": "Seychas" },
+        "japanese": { "word": "今", "pronunciation": "Ima" },
+        "chinese": { "word": "现在", "pronunciation": "Xiànzài" },
+        "kinyarwanda": { "word": "Ubu", "pronunciation": "Ubu" },
+        "french": { "word": "Maintenant", "pronunciation": "Mantenant" },
+        "spanish": { "word": "Ahora", "pronunciation": "Ahora" }
+      }
+    },
+    {
+      "category": "Expressions",
+      "english": "LATER",
+      "translations": {
+        "armenian": { "word": "Հետո", "pronunciation": "Heto" },
+        "georgian": { "word": "მოგვიანებით", "pronunciation": "Mogvianebit" },
+        "russian": { "word": "Позже", "pronunciation": "Pozzhe" },
+        "japanese": { "word": "後で", "pronunciation": "Atode" },
+        "chinese": { "word": "待会儿", "pronunciation": "Dài huì'er" },
+        "kinyarwanda": { "word": "Nyuma", "pronunciation": "Nyuma" },
+        "french": { "word": "Plus tard", "pronunciation": "Plu tar" },
+        "spanish": { "word": "Más tarde", "pronunciation": "Mas tarde" }
+      }
+    },
+    {
+      "category": "Expressions",
+      "english": "WELL NOW",
+      "translations": {
+        "armenian": { "word": "Դե հիմա", "pronunciation": "De hima" },
+        "georgian": { "word": "ახლა კი", "pronunciation": "Akhla ki" },
+        "russian": { "word": "Ну вот", "pronunciation": "Nu vot" },
+        "japanese": { "word": "さて", "pronunciation": "Sate" },
+        "chinese": { "word": "好吧", "pronunciation": "Hǎo ba" },
+        "kinyarwanda": { "word": "Noneho", "pronunciation": "Noneho" },
+        "french": { "word": "Eh bien", "pronunciation": "E byan" },
+        "spanish": { "word": "Pues ahora", "pronunciation": "Pues ahora" }
+      }
+    },
+    {
+      "category": "Expressions",
+      "english": "(NO) PROBLEM",
+      "translations": {
+        "armenian": { "word": "(Ոչ մի) խնդիր", "pronunciation": "(Voch mi) khndir" },
+        "georgian": { "word": "(არაა) პრობლემა", "pronunciation": "(Araa) problema" },
+        "russian": { "word": "(Нет) проблем", "pronunciation": "(Net) problem" },
+        "japanese": { "word": "問題(ない)", "pronunciation": "Mondai (nai)" },
+        "chinese": { "word": "(没)问题", "pronunciation": "(Méi) wèntí" },
+        "kinyarwanda": { "word": "(Nta) kibazo", "pronunciation": "(Nta) kibazo" },
+        "french": { "word": "(Pas de) problème", "pronunciation": "(Pa duh) problem" },
+        "spanish": { "word": "(No hay) problema", "pronunciation": "(No ay) problema" }
+      }
+    },
+    {
+      "category": "Expressions",
+      "english": "APPRECIATED",
+      "translations": {
+        "armenian": { "word": "Գնահատվում է", "pronunciation": "Gnahatvum e" },
+        "georgian": { "word": "დაფასებული", "pronunciation": "Dapasebuli" },
+        "russian": { "word": "Ценю", "pronunciation": "Tsenyu" },
+        "japanese": { "word": "感謝します", "pronunciation": "Kansha shimasu" },
+        "chinese": { "word": "感谢", "pronunciation": "Gǎnxiè" },
+        "kinyarwanda": { "word": "Birashimishije", "pronunciation": "Birashimishije" },
+        "french": { "word": "Apprécié", "pronunciation": "Appresyeh" },
+        "spanish": { "word": "Apreciado", "pronunciation": "Apresiado" }
+      }
+    }
+  ],
+  "Food/drink": [
+    {
+      "category": "Food/drink",
+      "english": "YUMMY",
+      "translations": {
+        "armenian": { "word": "Համեղ", "pronunciation": "Hamegh" },
+        "georgian": { "word": "გემრიელი", "pronunciation": "Gemrieli" },
+        "russian": { "word": "Вкусный", "pronunciation": "Vkusnyy" },
+        "japanese": { "word": "美味しい", "pronunciation": "Oishii" },
+        "chinese": { "word": "好吃", "pronunciation": "Hǎo chī" },
+        "kinyarwanda": { "word": "Kiraryoshye", "pronunciation": "Kiraryoshye" },
+        "french": { "word": "Miam", "pronunciation": "Myam" },
+        "spanish": { "word": "Delicioso", "pronunciation": "Delisioso" }
+      }
+    },
+    {
+      "category": "Food/drink",
+      "english": "DELICIOUS",
+      "translations": {
+        "armenian": { "word": "Համեղ", "pronunciation": "Hamegh" },
+        "georgian": { "word": "გემრიელი", "pronunciation": "Gemrieli" },
+        "russian": { "word": "Вкусный", "pronunciation": "Vkusnyy" },
+        "japanese": { "word": "美味しい", "pronunciation": "Oishii" },
+        "chinese": { "word": "美味的", "pronunciation": "Měiwèi de" },
+        "kinyarwanda": { "word": "Kiraryoshye", "pronunciation": "Kiraryoshye" },
+        "french": { "word": "Délicieux", "pronunciation": "Delisyoo" },
+        "spanish": { "word": "Delicioso", "pronunciation": "Delisioso" }
+      }
+    },
+    {
+      "category": "Food/drink",
+      "english": "SALTY",
+      "translations": {
+        "armenian": { "word": "Աղի", "pronunciation": "Aghi" },
+        "georgian": { "word": "მარილიანი", "pronunciation": "Mariliani" },
+        "russian": { "word": "Соленый", "pronunciation": "Solenyy" },
+        "japanese": { "word": "しょっぱい", "pronunciation": "Shoppai" },
+        "chinese": { "word": "咸的", "pronunciation": "Xián de" },
+        "kinyarwanda": { "word": "Umunyu", "pronunciation": "Umunyu" },
+        "french": { "word": "Salé", "pronunciation": "Saleh" },
+        "spanish": { "word": "Salado", "pronunciation": "Salado" }
+      }
+    },
+    {
+      "category": "Food/drink",
+      "english": "SPICY",
+      "translations": {
+        "armenian": { "word": "Կծու", "pronunciation": "Ktsu" },
+        "georgian": { "word": "ცხარე", "pronunciation": "Tskhare" },
+        "russian": { "word": "Острый", "pronunciation": "Ostryy" },
+        "japanese": { "word": "辛い", "pronunciation": "Karai" },
+        "chinese": { "word": "辣的", "pronunciation": "Là de" },
+        "kinyarwanda": { "word": "Ururimi", "pronunciation": "Ururimi" },
+        "french": { "word": "Épicé", "pronunciation": "Episeh" },
+        "spanish": { "word": "Picante", "pronunciation": "Pikante" }
+      }
+    },
+    {
+      "category": "Food/drink",
+      "english": "SWEET",
+      "translations": {
+        "armenian": { "word": "Քաղցր", "pronunciation": "Qaghtsr" },
+        "georgian": { "word": "ტკბილი", "pronunciation": "Tkbili" },
+        "russian": { "word": "Сладкий", "pronunciation": "Sladkiy" },
+        "japanese": { "word": "甘い", "pronunciation": "Amai" },
+        "chinese": { "word": "甜的", "pronunciation": "Tián de" },
+        "kinyarwanda": { "word": "Kiraryoheye", "pronunciation": "Kiraryoheye" },
+        "french": { "word": "Sucré", "pronunciation": "Sukreh" },
+        "spanish": { "word": "Dulce", "pronunciation": "Dulse" }
+      }
+    },
+    {
+      "category": "Food/drink",
+      "english": "WATER (COLD, HOT)",
+      "translations": {
+        "armenian": { "word": "Ջուր (սառը, տաք)", "pronunciation": "Joor (sarry, taq)" },
+        "georgian": { "word": "წყალი (ცივი, ცხელი)", "pronunciation": "Tskali (tsivi, tskheli)" },
+        "russian": { "word": "Вода (холодная, горячая)", "pronunciation": "Voda (kholodnaya, goryachaya)" },
+        "japanese": { "word": "水（冷たい、熱い）", "pronunciation": "Mizu (tsumetai, atsui)" },
+        "chinese": { "word": "水（冷的，热的）", "pronunciation": "Shuǐ (lěng de, rè de)" },
+        "kinyarwanda": { "word": "Amazi (akonje, ashyushye)", "pronunciation": "Amazi (akonje, ashyushye)" },
+        "french": { "word": "Eau (froide, chaude)", "pronunciation": "O (froyde, shod)" },
+        "spanish": { "word": "Agua (fría, caliente)", "pronunciation": "Agua (fria, kaliente)" }
+      }
+    },
+    {
+      "category": "Food/drink",
+      "english": "COFFEE",
+      "translations": {
+        "armenian": { "word": "Սուրճ", "pronunciation": "Surj" },
+        "georgian": { "word": "ყავა", "pronunciation": "Qava" },
+        "russian": { "word": "Кофе", "pronunciation": "Kofe" },
+        "japanese": { "word": "コーヒー", "pronunciation": "Kōhī" },
+        "chinese": { "word": "咖啡", "pronunciation": "Kāfēi" },
+        "kinyarwanda": { "word": "Kawa", "pronunciation": "Kawa" },
+        "french": { "word": "Café", "pronunciation": "Kafeh" },
+        "spanish": { "word": "Café", "pronunciation": "Kafe" }
+      }
+    },
+    {
+      "category": "Food/drink",
+      "english": "TEA",
+      "translations": {
+        "armenian": { "word": "Թեյ", "pronunciation": "Tey" },
+        "georgian": { "word": "ჩაი", "pronunciation": "Chai" },
+        "russian": { "word": "Чай", "pronunciation": "Chay" },
+        "japanese": { "word": "お茶", "pronunciation": "Ocha" },
+        "chinese": { "word": "茶", "pronunciation": "Chá" },
+        "kinyarwanda": { "word": "Icyayi", "pronunciation": "Icyayi" },
+        "french": { "word": "Thé", "pronunciation": "Teh" },
+        "spanish": { "word": "Té", "pronunciation": "Te" }
+      }
+    },
+    {
+      "category": "Food/drink",
+      "english": "BEER",
+      "translations": {
+        "armenian": { "word": "Գարեջուր", "pronunciation": "Garejur" },
+        "georgian": { "word": "ლუდი", "pronunciation": "Ludi" },
+        "russian": { "word": "Пиво", "pronunciation": "Pivo" },
+        "japanese": { "word": "ビール", "pronunciation": "Bīru" },
+        "chinese": { "word": "啤酒", "pronunciation": "Píjiǔ" },
+        "kinyarwanda": { "word": "Byeri", "pronunciation": "Byeri" },
+        "french": { "word": "Bière", "pronunciation": "Byer" },
+        "spanish": { "word": "Cerveza", "pronunciation": "Servesa" }
+      }
+    },
+    {
+      "category": "Food/drink",
+      "english": "RED WINE",
+      "translations": {
+        "armenian": { "word": "Կարմիր գինի", "pronunciation": "Karmir gini" },
+        "georgian": { "word": "წითელი ღვინო", "pronunciation": "Tsiteli ghvino" },
+        "russian": { "word": "Красное вино", "pronunciation": "Krasnoye vino" },
+        "japanese": { "word": "赤ワイン", "pronunciation": "Akawain" },
+        "chinese": { "word": "红酒", "pronunciation": "Hóngjiǔ" },
+        "kinyarwanda": { "word": "Divayi itukura", "pronunciation": "Divayi itukura" },
+        "french": { "word": "Vin rouge", "pronunciation": "Van ruzh" },
+        "spanish": { "word": "Vino tinto", "pronunciation": "Vino tinto" }
+      }
+    },
+    {
+      "category": "Food/drink",
+      "english": "WHITE WINE",
+      "translations": {
+        "armenian": { "word": "Սպիտակ գինի", "pronunciation": "Spitak gini" },
+        "georgian": { "word": "თეთრი ღვინო", "pronunciation": "Tetri ghvino" },
+        "russian": { "word": "Белое вино", "pronunciation": "Beloye vino" },
+        "japanese": { "word": "白ワイン", "pronunciation": "Shirowain" },
+        "chinese": { "word": "白酒", "pronunciation": "Báijiǔ" },
+        "kinyarwanda": { "word": "Divayi yera", "pronunciation": "Divayi yera" },
+        "french": { "word": "Vin blanc", "pronunciation": "Van blan" },
+        "spanish": { "word": "Vino blanco", "pronunciation": "Vino blanko" }
+      }
+    },
+    {
+      "category": "Food/drink",
+      "english": "CHOPSTICKS",
+      "translations": {
+        "armenian": { "word": "Փայտիկներ", "pronunciation": "Paytikner" },
+        "georgian": { "word": "ჩხირები", "pronunciation": "Chkhirebi" },
+        "russian": { "word": "Палочки", "pronunciation": "Palochki" },
+        "japanese": { "word": "箸", "pronunciation": "Hashi" },
+        "chinese": { "word": "筷子", "pronunciation": "Kuàizi" },
+        "kinyarwanda": { "word": "Inkoni zo kurisha", "pronunciation": "Inkoni zo kurisha" },
+        "french": { "word": "Baguettes", "pronunciation": "Baget" },
+        "spanish": { "word": "Palillos", "pronunciation": "Palilyos" }
+      }
+    },
+    {
+      "category": "Food/drink",
+      "english": "FORK/SPOON/KNIFE",
+      "translations": {
+        "armenian": { "word": "Պատառաքաղ/Գդալ/Դանակ", "pronunciation": "Patarraqagh/Gdal/Danak" },
+        "georgian": { "word": "ჩანგალი/კოვზი/დანა", "pronunciation": "Changali/Kovzi/Dana" },
+        "russian": { "word": "Вилка/Ложка/Нож", "pronunciation": "Vilka/Lozhka/Nozh" },
+        "japanese": { "word": "フォーク/スプーン/ナイフ", "pronunciation": "Fōku/Supūn/Naifu" },
+        "chinese": { "word": "叉子/勺子/刀", "pronunciation": "Chāzi/Sháozi/Dāo" },
+        "kinyarwanda": { "word": "Ifuruka/Ikiyiko/Icyuma", "pronunciation": "Ifuruka/Ikiyiko/Icyuma" },
+        "french": { "word": "Fourchette/Cuillère/Couteau", "pronunciation": "Furshet/Kwiyer/Kuto" },
+        "spanish": { "word": "Tenedor/Cuchara/Cuchillo", "pronunciation": "Tenedor/Kuchara/Kuchilyo" }
+      }
+    },
+    {
+      "category": "Food/drink",
+      "english": "MORE",
+      "translations": {
+        "armenian": { "word": "Ավելի", "pronunciation": "Aveli" },
+        "georgian": { "word": "მეტი", "pronunciation": "Meti" },
+        "russian": { "word": "Больше", "pronunciation": "Bol'she" },
+        "japanese": { "word": "もっと", "pronunciation": "Motto" },
+        "chinese": { "word": "更多", "pronunciation": "Gèng duō" },
+        "kinyarwanda": { "word": "Byinshi", "pronunciation": "Byinshi" },
+        "french": { "word": "Plus", "pronunciation": "Plu" },
+        "spanish": { "word": "Más", "pronunciation": "Mas" }
+      }
+    }
+  ],
+  "Shop": [
+    {
+      "category": "Shop",
+      "english": "EXPENSIVE",
+      "translations": {
+        "armenian": { "word": "Թանկ", "pronunciation": "Tank" },
+        "georgian": { "word": "ძვირი", "pronunciation": "Dz'viri" },
+        "russian": { "word": "Дорого", "pronunciation": "Dorogo" },
+        "japanese": { "word": "高い", "pronunciation": "Takai" },
+        "chinese": { "word": "贵的", "pronunciation": "Guì de" },
+        "kinyarwanda": { "word": "Bihenze", "pronunciation": "Bihenze" },
+        "french": { "word": "Cher", "pronunciation": "Sher" },
+        "spanish": { "word": "Caro", "pronunciation": "Karo" }
+      }
+    },
+    {
+      "category": "Shop",
+      "english": "JUST LOOKING",
+      "translations": {
+        "armenian": { "word": "Պարզապես նայում եմ", "pronunciation": "Parzapes nayum em" },
+        "georgian": { "word": "უბრალოდ ვათვალიერებ", "pronunciation": "Ubralod vatvaliereb" },
+        "russian": { "word": "Просто смотрю", "pronunciation": "Prosto smotryu" },
+        "japanese": { "word": "見ているだけです", "pronunciation": "Mite iru dake desu" },
+        "chinese": { "word": "只是看看", "pronunciation": "Zhǐshì kànkàn" },
+        "kinyarwanda": { "word": "Ndashaka kureba", "pronunciation": "Ndashaka kureba" },
+        "french": { "word": "Je regarde juste", "pronunciation": "Zhe regard zhyust" },
+        "spanish": { "word": "Solo estoy mirando", "pronunciation": "Solo estoy mirando" }
+      }
+    },
+    {
+      "category": "Shop",
+      "english": "THIS",
+      "translations": {
+        "armenian": { "word": "Սա", "pronunciation": "Sa" },
+        "georgian": { "word": "ეს", "pronunciation": "Es" },
+        "russian": { "word": "Это", "pronunciation": "Eto" },
+        "japanese": { "word": "これ", "pronunciation": "Kore" },
+        "chinese": { "word": "这个", "pronunciation": "Zhège" },
+        "kinyarwanda": { "word": "Iki", "pronunciation": "Iki" },
+        "french": { "word": "Ceci", "pronunciation": "Sesi" },
+        "spanish": { "word": "Esto", "pronunciation": "Esto" }
+      }
+    },
+    {
+      "category": "Shop",
+      "english": "THAT",
+      "translations": {
+        "armenian": { "word": "Դա", "pronunciation": "Da" },
+        "georgian": { "word": "ის", "pronunciation": "Is" },
+        "russian": { "word": "То", "pronunciation": "To" },
+        "japanese": { "word": "それ", "pronunciation": "Sore" },
+        "chinese": { "word": "那个", "pronunciation": "Nàgè" },
+        "kinyarwanda": { "word": "Iryo", "pronunciation": "Iryo" },
+        "french": { "word": "Cela", "pronunciation": "Sela" },
+        "spanish": { "word": "Eso", "pronunciation": "Eso" }
+      }
+    },
+    {
+      "category": "Shop",
+      "english": "THAT THERE",
+      "translations": {
+        "armenian": { "word": "Այնտեղ", "pronunciation": "Aytegh" },
+        "georgian": { "word": "ის იქ", "pronunciation": "Is ik" },
+        "russian": { "word": "Там", "pronunciation": "Tam" },
+        "japanese": { "word": "あそこ", "pronunciation": "Asoko" },
+        "chinese": { "word": "那边", "pronunciation": "Nàbiān" },
+        "kinyarwanda": { "word": "Hariho", "pronunciation": "Hariho" },
+        "french": { "word": "Là-bas", "pronunciation": "La-ba" },
+        "spanish": { "word": "Allá", "pronunciation": "Alya" }
+      }
+    },
+    {
+      "category": "Shop",
+      "english": "HALF (KILO)",
+      "translations": {
+        "armenian": { "word": "Կես (կիլո)", "pronunciation": "Kes (kilo)" },
+        "georgian": { "word": "ნახევარი (კილო)", "pronunciation": "Nakhevari (kilo)" },
+        "russian": { "word": "Половина (килограмма)", "pronunciation": "Polovina (kilogramma)" },
+        "japanese": { "word": "半分（キロ）", "pronunciation": "Hanbun (kiro)" },
+        "chinese": { "word": "半（公斤）", "pronunciation": "Bàn (gōngjīn)" },
+        "kinyarwanda": { "word": "Igice (ikilo)", "pronunciation": "Igice (ikilo)" },
+        "french": { "word": "Moitié (kilo)", "pronunciation": "Moityeh (kilo)" },
+        "spanish": { "word": "Medio (kilo)", "pronunciation": "Medio (kilo)" }
+      }
+    },
+    {
+      "category": "Shop",
+      "english": "QUARTER (KILO)",
+      "translations": {
+        "armenian": { "word": "Քառորդ (կիլո)", "pronunciation": "Qar'ord (kilo)" },
+        "georgian": { "word": "მეოთხედი (კილო)", "pronunciation": "Meotkhedi (kilo)" },
+        "russian": { "word": "Четверть (килограмма)", "pronunciation": "Chetvert' (kilogramma)" },
+        "japanese": { "word": "四分の一（キロ）", "pronunciation": "Yonbun no ichi (kiro)" },
+        "chinese": { "word": "四分之一（公斤）", "pronunciation": "Sì fēn zhī yī (gōngjīn)" },
+        "kinyarwanda": { "word": "Ikimwe cya kane (ikilo)", "pronunciation": "Ikimwe cya kane (ikilo)" },
+        "french": { "word": "Quart (kilo)", "pronunciation": "Kar (kilo)" },
+        "spanish": { "word": "Cuarto (kilo)", "pronunciation": "Kuartoh (kilo)" }
+      }
+    },
+    {
+      "category": "Shop",
+      "english": "MORE",
+      "translations": {
+        "armenian": { "word": "Ավելի", "pronunciation": "Aveli" },
+        "georgian": { "word": "მეტი", "pronunciation": "Meti" },
+        "russian": { "word": "Больше", "pronunciation": "Bol'she" },
+        "japanese": { "word": "もっと", "pronunciation": "Motto" },
+        "chinese": { "word": "更多", "pronunciation": "Gèng duō" },
+        "kinyarwanda": { "word": "Byinshi", "pronunciation": "Byinshi" },
+        "french": { "word": "Plus", "pronunciation": "Plu" },
+        "spanish": { "word": "Más", "pronunciation": "Mas" }
+      }
+    },
+    {
+      "category": "Shop",
+      "english": "LESS",
+      "translations": {
+        "armenian": { "word": "Քիչ", "pronunciation": "Qich" },
+        "georgian": { "word": "ნაკლები", "pronunciation": "Naklebi" },
+        "russian": { "word": "Меньше", "pronunciation": "Men'she" },
+        "japanese": { "word": "少ない", "pronunciation": "Sukunai" },
+        "chinese": { "word": "更少", "pronunciation": "Gèng shǎo" },
+        "kinyarwanda": { "word": "Bike", "pronunciation": "Bike" },
+        "french": { "word": "Moins", "pronunciation": "Mwan" },
+        "spanish": { "word": "Menos", "pronunciation": "Menos" }
+      }
+    },
+    {
+      "category": "Shop",
+      "english": "HOW MUCH",
+      "translations": {
+        "armenian": { "word": "Ինչքան", "pronunciation": "Inchqan" },
+        "georgian": { "word": "რა ღირს", "pronunciation": "Ra ghirs" },
+        "russian": { "word": "Сколько", "pronunciation": "Skol'ko" },
+        "japanese": { "word": "いくら", "pronunciation": "Ikura" },
+        "chinese": { "word": "多少钱", "pronunciation": "Duōshǎo qián" },
+        "kinyarwanda": { "word": "Angahe", "pronunciation": "Angahe" },
+        "french": { "word": "Combien", "pronunciation": "Kombiyan" },
+        "spanish": { "word": "Cuánto", "pronunciation": "Kuwanto" }
+      }
+    },
+    {
+      "category": "Shop",
+      "english": "WHERE",
+      "translations": {
+        "armenian": { "word": "Որտեղ", "pronunciation": "Vorteg" },
+        "georgian": { "word": "სად", "pronunciation": "Sad" },
+        "russian": { "word": "Где", "pronunciation": "Gde" },
+        "japanese": { "word": "どこ", "pronunciation": "Doko" },
+        "chinese": { "word": "哪里", "pronunciation": "Nǎlǐ" },
+        "kinyarwanda": { "word": "Hehe", "pronunciation": "Hehe" },
+        "french": { "word": "Où", "pronunciation": "Oo" },
+        "spanish": { "word": "Dónde", "pronunciation": "Donde" }
+      }
+    }
+  ],
+  "Travel": [
+    {
+      "category": "Travel",
+      "english": "OPEN/CLOSED",
+      "translations": {
+        "armenian": { "word": "Բաց/Փակ", "pronunciation": "Bats/Pak" },
+        "georgian": { "word": "ღია/დაკეტილი", "pronunciation": "Ghia/Dak'et'ili" },
+        "russian": { "word": "Открыто/Закрыто", "pronunciation": "Otkryto/Zakryto" },
+        "japanese": { "word": "開いている/閉まっている", "pronunciation": "Aite iru/Shimatte iru" },
+        "chinese": { "word": "开/关", "pronunciation": "Kāi/Guān" },
+        "kinyarwanda": { "word": "Ifunguye/Ifunze", "pronunciation": "Ifunguye/Ifunze" },
+        "french": { "word": "Ouvert/Fermé", "pronunciation": "Uver/Fermeh" },
+        "spanish": { "word": "Abierto/Cerrado", "pronunciation": "Abyerto/Serrado" }
+      }
+    },
+    {
+      "category": "Travel",
+      "english": "PUSH/PULL",
+      "translations": {
+        "armenian": { "word": "Հրել/Քաշել", "pronunciation": "Hrel/Qashel" },
+        "georgian": { "word": "მიაწექი/გამოწიე", "pronunciation": "Miats'ek'i/Gamots'ie" },
+        "russian": { "word": "Толкать/Тянуть", "pronunciation": "Tolkat'/Tyanut'" },
+        "japanese": { "word": "押す/引く", "pronunciation": "Osu/Hiku" },
+        "chinese": { "word": "推/拉", "pronunciation": "Tuī/Lā" },
+        "kinyarwanda": { "word": "Sundika/Kurura", "pronunciation": "Sundika/Kurura" },
+        "french": { "word": "Pousser/Tirer", "pronunciation": "Puseh/Tireh" },
+        "spanish": { "word": "Empujar/Tirar", "pronunciation": "Empuhar/Tirar" }
+      }
+    },
+    {
+      "category": "Travel",
+      "english": "FREE (VACANT)",
+      "translations": {
+        "armenian": { "word": "Ազատ", "pronunciation": "Azat" },
+        "georgian": { "word": "თავისუფალი", "pronunciation": "Tavisupali" },
+        "russian": { "word": "Свободно", "pronunciation": "Svobodno" },
+        "japanese": { "word": "空いています", "pronunciation": "Aite imasu" },
+        "chinese": { "word": "空闲", "pronunciation": "Kòngxián" },
+        "kinyarwanda": { "word": "Ubusa", "pronunciation": "Ubusa" },
+        "french": { "word": "Libre", "pronunciation": "Libr" },
+        "spanish": { "word": "Libre", "pronunciation": "Libre" }
+      }
+    },
+    {
+      "category": "Travel",
+      "english": "WHICH",
+      "translations": {
+        "armenian": { "word": "Որը", "pronunciation": "Vor'y" },
+        "georgian": { "word": "რომელი", "pronunciation": "Romeli" },
+        "russian": { "word": "Который", "pronunciation": "Kotoryy" },
+        "japanese": { "word": "どれ", "pronunciation": "Dore" },
+        "chinese": { "word": "哪个", "pronunciation": "Nǎge" },
+        "kinyarwanda": { "word": "Ni iyihe", "pronunciation": "Ni iyihe" },
+        "french": { "word": "Lequel", "pronunciation": "Luhkel" },
+        "spanish": { "word": "Cuál", "pronunciation": "Kual" }
+      }
+    },
+    {
+      "category": "Travel",
+      "english": "WHERE",
+      "translations": {
+        "armenian": { "word": "Որտեղ", "pronunciation": "Vorteg" },
+        "georgian": { "word": "სად", "pronunciation": "Sad" },
+        "russian": { "word": "Где", "pronunciation": "Gde" },
+        "japanese": { "word": "どこ", "pronunciation": "Doko" },
+        "chinese": { "word": "哪里", "pronunciation": "Nǎlǐ" },
+        "kinyarwanda": { "word": "Hehe", "pronunciation": "Hehe" },
+        "french": { "word": "Où", "pronunciation": "Oo" },
+        "spanish": { "word": "Dónde", "pronunciation": "Donde" }
+      }
+    },
+    {
+      "category": "Travel",
+      "english": "ATM",
+      "translations": {
+        "armenian": { "word": "Բանկոմատ", "pronunciation": "Bankomat" },
+        "georgian": { "word": "ბანკომატი", "pronunciation": "Bank'omat'i" },
+        "russian": { "word": "Банкомат", "pronunciation": "Bankomat" },
+        "japanese": { "word": "ATM", "pronunciation": "Ē Tī Emu" },
+        "chinese": { "word": "自动取款机", "pronunciation": "Zìdòng qǔkuǎnjī" },
+        "kinyarwanda": { "word": "ATM", "pronunciation": "ATM" },
+        "french": { "word": "Distributeur automatique de billets", "pronunciation": "Distribyuteur otomatiyk duh biyè" },
+        "spanish": { "word": "Cajero automático", "pronunciation": "Kahero automatiko" }
+      }
+    },
+    {
+      "category": "Travel",
+      "english": "PHOTOGRAPH",
+      "translations": {
+        "armenian": { "word": "Լուսանկար", "pronunciation": "Lusankar" },
+        "georgian": { "word": "ფოტოგრაფია", "pronunciation": "Pot'ograpia" },
+        "russian": { "word": "Фотография", "pronunciation": "Fotografiya" },
+        "japanese": { "word": "写真", "pronunciation": "Shashin" },
+        "chinese": { "word": "照片", "pronunciation": "Zhàopiàn" },
+        "kinyarwanda": { "word": "Ifoto", "pronunciation": "Ifoto" },
+        "french": { "word": "Photographie", "pronunciation": "Fotografi" },
+        "spanish": { "word": "Fotografía", "pronunciation": "Fotografia" }
+      }
+    },
+    {
+      "category": "Travel",
+      "english": "DRONE",
+      "translations": {
+        "armenian": { "word": "Դրոն", "pronunciation": "Dron" },
+        "georgian": { "word": "დრონი", "pronunciation": "Droni" },
+        "russian": { "word": "Дрон", "pronunciation": "Dron" },
+        "japanese": { "word": "ドローン", "pronunciation": "Dorōn" },
+        "chinese": { "word": "无人机", "pronunciation": "WúRénJī" },
+        "kinyarwanda": { "word": "Dron", "pronunciation": "Dron" },
+        "french": { "word": "Drone", "pronunciation": "Dron" },
+        "spanish": { "word": "Dron", "pronunciation": "Dron" }
+      }
+    },
+    {
+      "category": "Travel",
+      "english": "TO ... (DESTINATION)",
+      "translations": {
+        "armenian": { "word": "Դեպի ... (նպատակակետ)", "pronunciation": "Depi ... (npatakak'et)" },
+        "georgian": { "word": "...-ისკენ (დანიშნულების ადგილი)", "pronunciation": "...-isken (danisnulebis adgili)" },
+        "russian": { "word": "В ... (пункт назначения)", "pronunciation": "V ... (punkt naznacheniya)" },
+        "japanese": { "word": "...へ（目的地）", "pronunciation": "... e (mokutekichi)" },
+        "chinese": { "word": "去...（目的地）", "pronunciation": "Qù... (mùdìdì)" },
+        "kinyarwanda": { "word": "Kuri ... (aho ujya)", "pronunciation": "Kuri ... (aho ujya)" },
+        "french": { "word": "À ... (destination)", "pronunciation": "A ... (destinasion)" },
+        "spanish": { "word": "A ... (destino)", "pronunciation": "A ... (destino)" }
+      }
+    },
+    {
+      "category": "Travel",
+      "english": "CALCULATOR",
+      "translations": {
+        "armenian": { "word": "Հաշվիչ", "pronunciation": "Hashvich" },
+        "georgian": { "word": "კალკულატორი", "pronunciation": "K'alk'ulateri" },
+        "russian": { "word": "Калькулятор", "pronunciation": "Kalkulyator" },
+        "japanese": { "word": "電卓", "pronunciation": "Dentaku" },
+        "chinese": { "word": "计算器", "pronunciation": "Jìsuànqì" },
+        "kinyarwanda": { "word": "Imashini ibara", "pronunciation": "Imashini ibara" },
+        "french": { "word": "Calculatrice", "pronunciation": "Kalkülatris" },
+        "spanish": { "word": "Calculadora", "pronunciation": "Kalkuladora" }
+      }
+    },
+    {
+      "category": "Travel",
+      "english": "CELLPHONE",
+      "translations": {
+        "armenian": { "word": "Բջջային հեռախոս", "pronunciation": "Bjajayin herakhos" },
+        "georgian": { "word": "მობილური ტელეფონი", "pronunciation": "Mobiluri t'eleponi" },
+        "russian": { "word": "Мобильный телефон", "pronunciation": "Mobil'nyy telefon" },
+        "japanese": { "word": "携帯電話", "pronunciation": "Keitai denwa" },
+        "chinese": { "word": "手机", "pronunciation": "Shǒujī" },
+        "kinyarwanda": { "word": "Telefoni igendanwa", "pronunciation": "Telefoni igendanwa" },
+        "french": { "word": "Téléphone portable", "pronunciation": "Telephon portabl" },
+        "spanish": { "word": "Teléfono móvil", "pronunciation": "Telefono movil" }
+      }
+    },
+    {
+      "category": "Travel",
+      "english": "CHARGER",
+      "translations": {
+        "armenian": { "word": "Լիցքավորիչ", "pronunciation": "Litsqavorich" },
+        "georgian": { "word": "დამტენი", "pronunciation": "Damt'eni" },
+        "russian": { "word": "Зарядное устройство", "pronunciation": "Zaryadnoye ustroystvo" },
+        "japanese": { "word": "充電器", "pronunciation": "Jūdenki" },
+        "chinese": { "word": "充电器", "pronunciation": "Chōngdiànqì" },
+        "kinyarwanda": { "word": "Charger", "pronunciation": "Charger" },
+        "french": { "word": "Chargeur", "pronunciation": "Sharzhur" },
+        "spanish": { "word": "Cargador", "pronunciation": "Kargador" }
+      }
+    },
+    {
+      "category": "Travel",
+      "english": "EXTENSION CORD",
+      "translations": {
+        "armenian": { "word": "Երկարացման լար", "pronunciation": "Yerkaratsman lar" },
+        "georgian": { "word": "გამაგრძელებელი კაბელი", "pronunciation": "Gamagrdzeleli k'abeli" },
+        "russian": { "word": "Удлинитель", "pronunciation": "Udlinnitel'" },
+        "japanese": { "word": "延長コード", "pronunciation": "Enchō kōdo" },
+        "chinese": { "word": "延长线", "pronunciation": "Yáncháng xiàn" },
+        "kinyarwanda": { "word": "Urugo rw'amashanyarazi", "pronunciation": "Urugo rw'amashanyarazi" },
+        "french": { "word": "Rallonge électrique", "pronunciation": "Ralonzh elektrik" },
+        "spanish": { "word": "Cable de extensión", "pronunciation": "Kable de ekstension" }
+      }
+    },
+    {
+      "category": "Travel",
+      "english": "TOILET",
+      "translations": {
+        "armenian": { "word": "Զուգարան", "pronunciation": "Zugaràn" },
+        "georgian": { "word": "ტუალეტი", "pronunciation": "T'ualet'i" },
+        "russian": { "word": "Туалет", "pronunciation": "Tualet" },
+        "japanese": { "word": "トイレ", "pronunciation": "Toire" },
+        "chinese": { "word": "厕所", "pronunciation": "Cèsuǒ" },
+        "kinyarwanda": { "word": "Ubwiherero", "pronunciation": "Ubwiherero" },
+        "french": { "word": "Toilettes", "pronunciation": "Twalet" },
+        "spanish": { "word": "Baño", "pronunciation": "Banyo" }
+      }
+    },
+    {
+      "category": "Travel",
+      "english": "SHOWER",
+      "translations": {
+        "armenian": { "word": "Ցնցուղ", "pronunciation": "Tsnc'ugh" },
+        "georgian": { "word": "შხაპი", "pronunciation": "Shkhapi" },
+        "russian": { "word": "Душ", "pronunciation": "Dush" },
+        "japanese": { "word": "シャワー", "pronunciation": "Shawā" },
+        "chinese": { "word": "淋浴", "pronunciation": "Línyù" },
+        "kinyarwanda": { "word": "Shawa", "pronunciation": "Shawa" },
+        "french": { "word": "Douche", "pronunciation": "Dush" },
+        "spanish": { "word": "Ducha", "pronunciation": "Ducha" }
+      }
+    },
+    {
+      "category": "Travel",
+      "english": "COLD",
+      "translations": {
+        "armenian": { "word": "Սառը", "pronunciation": "Sarry" },
+        "georgian": { "word": "ცივი", "pronunciation": "Tsivi" },
+        "russian": { "word": "Холодный", "pronunciation": "Kholodnyy" },
+        "japanese": { "word": "冷たい", "pronunciation": "Tsumetai" },
+        "chinese": { "word": "冷的", "pronunciation": "Lěng de" },
+        "kinyarwanda": { "word": "Akonje", "pronunciation": "Akonje" },
+        "french": { "word": "Froid", "pronunciation": "Froi" },
+        "spanish": { "word": "Frío", "pronunciation": "Frio" }
+      }
+    },
+    {
+      "category": "Travel",
+      "english": "HOT",
+      "translations": {
+        "armenian": { "word": "Տաք", "pronunciation": "Taq" },
+        "georgian": { "word": "ცხელი", "pronunciation": "Tskheli" },
+        "russian": { "word": "Горячий", "pronunciation": "Goryachiy" },
+        "japanese": { "word": "熱い", "pronunciation": "Atsui" },
+        "chinese": { "word": "热的", "pronunciation": "Rè de" },
+        "kinyarwanda": { "word": "Ashyushye", "pronunciation": "Ashyushye" },
+        "french": { "word": "Chaud", "pronunciation": "Sho" },
+        "spanish": { "word": "Caliente", "pronunciation": "Kaliente" }
+      }
+    },
+    {
+      "category": "Travel",
+      "english": "I AM BEFORE YOU (IN LINE)",
+      "translations": {
+        "armenian": { "word": "Ես ձեր առջև եմ (հերթում)", "pronunciation": "Yes dzer arrjev em (hertum)" },
+        "georgian": { "word": "მე თქვენს წინ ვარ (რიგში)", "pronunciation": "Me tk'vens ts'in var (rigshi)" },
+        "russian": { "word": "Я перед вами (в очереди)", "pronunciation": "Ya pered vami (v ocheredi)" },
+        "japanese": { "word": "私が先です（列で）", "pronunciation": "Watashi ga saki desu (retsu de)" },
+        "chinese": { "word": "我在你前面（排队）", "pronunciation": "Wǒ zài nǐ qiánmiàn (páiduì)" },
+        "kinyarwanda": { "word": "Ndi imbere yawe (mu murongo)", "pronunciation": "Ndi imbere yawe (mu murongo)" },
+        "french": { "word": "Je suis devant vous (dans la file)", "pronunciation": "Zhe swi devan vu (dan la fil)" },
+        "spanish": { "word": "Estoy antes que usted (en la fila)", "pronunciation": "Estoy antes ke usted (en la fila)" }
+      }
+    }
+  ],
+  "Commands/requests": [
+    {
+      "category": "Commands/requests",
+      "english": "GO",
+      "translations": {
+        "armenian": { "word": "Գնա", "pronunciation": "Gna" },
+        "georgian": { "word": "წადი", "pronunciation": "Ts'adi" },
+        "russian": { "word": "Иди", "pronunciation": "Idi" },
+        "japanese": { "word": "行け", "pronunciation": "Ike" },
+        "chinese": { "word": "走", "pronunciation": "Zǒu" },
+        "kinyarwanda": { "word": "Genda", "pronunciation": "Genda" },
+        "french": { "word": "Va", "pronunciation": "Va" },
+        "spanish": { "word": "Ve", "pronunciation": "Ve" }
+      }
+    },
+    {
+      "category": "Commands/requests",
+      "english": "COME",
+      "translations": {
+        "armenian": { "word": "Արի", "pronunciation": "Ari" },
+        "georgian": { "word": "მოდი", "pronunciation": "Modi" },
+        "russian": { "word": "Иди сюда", "pronunciation": "Idi syuda" },
+        "japanese": { "word": "来て", "pronunciation": "Kite" },
+        "chinese": { "word": "来", "pronunciation": "Lái" },
+        "kinyarwanda": { "word": "Ngwino", "pronunciation": "Ngwino" },
+        "french": { "word": "Viens", "pronunciation": "Vyan" },
+        "spanish": { "word": "Ven", "pronunciation": "Ven" }
+      }
+    },
+    {
+      "category": "Commands/requests",
+      "english": "POINT",
+      "translations": {
+        "armenian": { "word": "Մատնացույց արա", "pronunciation": "Matnatsuyts ara" },
+        "georgian": { "word": "მიუთითე", "pronunciation": "Miutite" },
+        "russian": { "word": "Укажи", "pronunciation": "Ukazhi" },
+        "japanese": { "word": "指す", "pronunciation": "Sasu" },
+        "chinese": { "word": "指", "pronunciation": "Zhǐ" },
+        "kinyarwanda": { "word": "Weretsere", "pronunciation": "Weretsere" },
+        "french": { "word": "Pointe", "pronunciation": "Pwant" },
+        "spanish": { "word": "Señala", "pronunciation": "Señala" }
+      }
+    },
+    {
+      "category": "Commands/requests",
+      "english": "SHOW (ME)",
+      "translations": {
+        "armenian": { "word": "Ցույց տուր (ինձ)", "pronunciation": "Tsuyts tur (indz)" },
+        "georgian": { "word": "მაჩვენე", "pronunciation": "Machvene" },
+        "russian": { "word": "Покажи (мне)", "pronunciation": "Pokazhi (mne)" },
+        "japanese": { "word": "見せて", "pronunciation": "Misete" },
+        "chinese": { "word": "给我看", "pronunciation": "Gěi wǒ kàn" },
+        "kinyarwanda": { "word": "Nyerereka", "pronunciation": "Nyerereka" },
+        "french": { "word": "Montre (moi)", "pronunciation": "Montr (mwa)" },
+        "spanish": { "word": "Muéstrame", "pronunciation": "Muestrame" }
+      }
+    },
+    {
+      "category": "Commands/requests",
+      "english": "BE QUIET",
+      "translations": {
+        "armenian": { "word": "Լռիր", "pronunciation": "Lr'ir" },
+        "georgian": { "word": "გაჩუმდი", "pronunciation": "Gachumdi" },
+        "russian": { "word": "Замолчи", "pronunciation": "Zamolchi" },
+        "japanese": { "word": "静かにして", "pronunciation": "Shizuka ni shite" },
+        "chinese": { "word": "安静", "pronunciation": "Ānjìng" },
+        "kinyarwanda": { "word": "Ceka", "pronunciation": "Ceka" },
+        "french": { "word": "Tais-toi", "pronunciation": "Teh-twa" },
+        "spanish": { "word": "Cállate", "pronunciation": "Kalyate" }
+      }
+    },
+    {
+      "category": "Commands/requests",
+      "english": "SHUT UP",
+      "translations": {
+        "armenian": { "word": "Փակիր բերանդ", "pronunciation": "Pakir berand" },
+        "georgian": { "word": "გაჩუმდი", "pronunciation": "Gachumdi" },
+        "russian": { "word": "Заткнись", "pronunciation": "Zatknis'" },
+        "japanese": { "word": "黙れ", "pronunciation": "Damare" },
+        "chinese": { "word": "闭嘴", "pronunciation": "Bì zuǐ" },
+        "kinyarwanda": { "word": "Ceceka", "pronunciation": "Ceceka" },
+        "french": { "word": "Ferme ta gueule", "pronunciation": "Ferm ta guel" },
+        "spanish": { "word": "Cállate", "pronunciation": "Kalyate" }
+      }
+    },
+    {
+      "category": "Commands/requests",
+      "english": "FIX",
+      "translations": {
+        "armenian": { "word": "Ուղղել", "pronunciation": "Ughghel" },
+        "georgian": { "word": "გაასწორე", "pronunciation": "Gaastsore" },
+        "russian": { "word": "Почини", "pronunciation": "Pochini" },
+        "japanese": { "word": "直す", "pronunciation": "Naosu" },
+        "chinese": { "word": "修理", "pronunciation": "Xiūlǐ" },
+        "kinyarwanda": { "word": "Kora", "pronunciation": "Kora" },
+        "french": { "word": "Répare", "pronunciation": "Repar" },
+        "spanish": { "word": "Repara", "pronunciation": "Repara" }
+      }
+    },
+    {
+      "category": "Commands/requests",
+      "english": "START",
+      "translations": {
+        "armenian": { "word": "Սկսել", "pronunciation": "Sk'sel" },
+        "georgian": { "word": "დაიწყე", "pronunciation": "Daiytsqe" },
+        "russian": { "word": "Начать", "pronunciation": "Nachat'" },
+        "japanese": { "word": "始める", "pronunciation": "Hajimeru" },
+        "chinese": { "word": "开始", "pronunciation": "Kāishǐ" },
+        "kinyarwanda": { "word": "Tangira", "pronunciation": "Tangira" },
+        "french": { "word": "Commence", "pronunciation": "Komonss" },
+        "spanish": { "word": "Empieza", "pronunciation": "Empiesa" }
+      }
+    },
+    {
+      "category": "Commands/requests",
+      "english": "STOP",
+      "translations": {
+        "armenian": { "word": "Կանգնեցնել", "pronunciation": "Kangnets'nel" },
+        "georgian": { "word": "შეაჩერე", "pronunciation": "Sheachere" },
+        "russian": { "word": "Останови", "pronunciation": "Ostanovi" },
+        "japanese": { "word": "止める", "pronunciation": "Yameru" },
+        "chinese": { "word": "停止", "pronunciation": "Tíngzhǐ" },
+        "kinyarwanda": { "word": "Hagarara", "pronunciation": "Hagarara" },
+        "french": { "word": "Arrête", "pronunciation": "Arret" },
+        "spanish": { "word": "Para", "pronunciation": "Para" }
+      }
+    },
+    {
+      "category": "Commands/requests",
+      "english": "MOVE",
+      "translations": {
+        "armenian": { "word": "Շարժվել", "pronunciation": "Sharzhvel" },
+        "georgian": { "word": "გადაადგილდი", "pronunciation": "Gadaadgildi" },
+        "russian": { "word": "Двигайся", "pronunciation": "Dvigaysya" },
+        "japanese": { "word": "動く", "pronunciation": "Ugoku" },
+        "chinese": { "word": "移动", "pronunciation": "Yídòng" },
+        "kinyarwanda": { "word": "Simuka", "pronunciation": "Simuka" },
+        "french": { "word": "Bouge", "pronunciation": "Buzh" },
+        "spanish": { "word": "Mueve", "pronunciation": "Mueve" }
+      }
+    }
+  ],
+  "Forms of address": [
+    {
+      "category": "Forms of address",
+      "english": "BROTHER (BRO)",
+      "translations": {
+        "armenian": { "word": "Եղբայր (եղբ)", "pronunciation": "Yeghbayr (yeghb)" },
+        "georgian": { "word": "ძმა (ძმაო)", "pronunciation": "Dzma (dzmao)" },
+        "russian": { "word": "Брат (бро)", "pronunciation": "Brat (bro)" },
+        "japanese": { "word": "兄弟（ブロ）", "pronunciation": "Kyōdai (buro)" },
+        "chinese": { "word": "兄弟（哥们儿）", "pronunciation": "Xiōngdì (gēmenr)" },
+        "kinyarwanda": { "word": "Muvandimwe (muv)", "pronunciation": "Muvandimwe (muv)" },
+        "french": { "word": "Frère (frérot)", "pronunciation": "Frer (frero)" },
+        "spanish": { "word": "Hermano (bro)", "pronunciation": "Ermano (bro)" }
+      }
+    },
+    {
+      "category": "Forms of address",
+      "english": "DUDE",
+      "translations": {
+        "armenian": { "word": "Տղա", "pronunciation": "Tgha" },
+        "georgian": { "word": "ძმაკაცი", "pronunciation": "Dzmakhasi" },
+        "russian": { "word": "Чувак", "pronunciation": "Chuvak" },
+        "japanese": { "word": "おい", "pronunciation": "Oi" },
+        "chinese": { "word": "伙计", "pronunciation": "Huǒjì" },
+        "kinyarwanda": { "word": "Mugenzi", "pronunciation": "Mugenzi" },
+        "french": { "word": "Mec", "pronunciation": "Mek" },
+        "spanish": { "word": "Tío", "pronunciation": "Tio" }
+      }
+    },
+    {
+      "category": "Forms of address",
+      "english": "MATE",
+      "translations": {
+        "armenian": { "word": "Ընկեր", "pronunciation": "Ynker" },
+        "georgian": { "word": "მეგობარი", "pronunciation": "Megobari" },
+        "russian": { "word": "Приятель", "pronunciation": "Priyatel'" },
+        "japanese": { "word": "相棒", "pronunciation": "Aibō" },
+        "chinese": { "word": "伙计", "pronunciation": "Huǒjì" },
+        "kinyarwanda": { "word": "Mugenzi", "pronunciation": "Mugenzi" },
+        "french": { "word": "Pote", "pronunciation": "Pot" },
+        "spanish": { "word": "Colega", "pronunciation": "Kolega" }
+      }
+    },
+    {
+      "category": "Forms of address",
+      "english": "FRIEND",
+      "translations": {
+        "armenian": { "word": "Ընկեր", "pronunciation": "Ynker" },
+        "georgian": { "word": "მეგობარი", "pronunciation": "Megobari" },
+        "russian": { "word": "Друг", "pronunciation": "Drug" },
+        "japanese": { "word": "友達", "pronunciation": "Tomodachi" },
+        "chinese": { "word": "朋友", "pronunciation": "Péngyǒu" },
+        "kinyarwanda": { "word": "Inshuti", "pronunciation": "Inshuti" },
+        "french": { "word": "Ami", "pronunciation": "Ami" },
+        "spanish": { "word": "Amigo", "pronunciation": "Amigo" }
+      }
+    },
+    {
+      "category": "Forms of address",
+      "english": "MISTER",
+      "translations": {
+        "armenian": { "word": "Պարոն", "pronunciation": "Paron" },
+        "georgian": { "word": "ბატონო", "pronunciation": "Bat'ono" },
+        "russian": { "word": "Господин", "pronunciation": "Gospodin" },
+        "japanese": { "word": "さん", "pronunciation": "San" },
+        "chinese": { "word": "先生", "pronunciation": "Xiānshēng" },
+        "kinyarwanda": { "word": "Mugenzi", "pronunciation": "Mugenzi" },
+        "french": { "word": "Monsieur", "pronunciation": "Monsieur" },
+        "spanish": { "word": "Señor", "pronunciation": "Señor" }
+      }
+    },
+    {
+      "category": "Forms of address",
+      "english": "MISS",
+      "translations": {
+        "armenian": { "word": "Միսս", "pronunciation": "Miss" },
+        "georgian": { "word": "ქალბატონო", "pronunciation": "Kalbat'ono" },
+        "russian": { "word": "Мисс", "pronunciation": "Miss" },
+        "japanese": { "word": "さん", "pronunciation": "San" },
+        "chinese": { "word": "小姐", "pronunciation": "Xiǎojiě" },
+        "kinyarwanda": { "word": "Umukobwa", "pronunciation": "Umukobwa" },
+        "french": { "word": "Mademoiselle", "pronunciation": "Madmwazel" },
+        "spanish": { "word": "Señorita", "pronunciation": "Señorita" }
+      }
+    },
+    {
+      "category": "Forms of address",
+      "english": "MRS.",
+      "translations": {
+        "armenian": { "word": "Տիկին", "pronunciation": "Tikin" },
+        "georgian": { "word": "ქალბატონი", "pronunciation": "Kalbat'oni" },
+        "russian": { "word": "Госпожа", "pronunciation": "Gospozha" },
+        "japanese": { "word": "さん", "pronunciation": "San" },
+        "chinese": { "word": "太太", "pronunciation": "Tàitài" },
+        "kinyarwanda": { "word": "Madamu", "pronunciation": "Madamu" },
+        "french": { "word": "Madame", "pronunciation": "Madam" },
+        "spanish": { "word": "Señora", "pronunciation": "Señora" }
+      }
+    },
+    {
+      "category": "Forms of address",
+      "english": "SIR",
+      "translations": {
+        "armenian": { "word": "Պարոն", "pronunciation": "Paron" },
+        "georgian": { "word": "ბატონო", "pronunciation": "Bat'ono" },
+        "russian": { "word": "Сэр", "pronunciation": "Ser" },
+        "japanese": { "word": "様", "pronunciation": "Sama" },
+        "chinese": { "word": "先生", "pronunciation": "Xiānshēng" },
+        "kinyarwanda": { "word": "Nyagasani", "pronunciation": "Nyagasani" },
+        "french": { "word": "Monsieur", "pronunciation": "Monsieur" },
+        "spanish": { "word": "Señor", "pronunciation": "Señor" }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# EAS
+.eas/
+
+# Native builds
+android/
+ios/
+
+# Environment variables
+.env
+.env.local
+.env*.local
+
+# Build artifacts
+*.apk
+*.aab
+*.ipa
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
+
+# Local config
+*.local

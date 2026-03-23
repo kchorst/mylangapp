@@ -1,0 +1,182 @@
+[
+  {
+    "category": "Greetings",
+    "english": "what's up?",
+    "translations": {
+      "russian": {
+        "word": "как дела?",
+        "pronunciation": "kak dela?"
+      }
+    }
+  },
+  {
+    "category": "Greetings",
+    "english": "good",
+    "translations": {
+      "russian": {
+        "word": "хорошо",
+        "pronunciation": "khorosho"
+      }
+    }
+  },
+  {
+    "category": "Greetings",
+    "english": "OK",
+    "translations": {
+      "russian": {
+        "word": "ок",
+        "pronunciation": "ok"
+      }
+    }
+  },
+  {
+    "category": "Greetings",
+    "english": "so-so",
+    "translations": {
+      "russian": {
+        "word": "так себе",
+        "pronunciation": "tak sebe"
+      }
+    }
+  },
+  {
+    "category": "Greetings",
+    "english": "bad",
+    "translations": {
+      "russian": {
+        "word": "плохо",
+        "pronunciation": "plokho"
+      }
+    }
+  },
+  {
+    "category": "Greetings",
+    "english": "very",
+    "translations": {
+      "russian": {
+        "word": "очень",
+        "pronunciation": "ochen'"
+      }
+    }
+  },
+  {
+    "category": "Greetings",
+    "english": "nothing new",
+    "translations": {
+      "russian": {
+        "word": "ничего нового",
+        "pronunciation": "nichego novogo"
+      }
+    }
+  },
+  {
+    "category": "Greetings",
+    "english": "bye",
+    "translations": {
+      "russian": {
+        "word": "пока",
+        "pronunciation": "poka"
+      }
+    }
+  },
+  {
+    "category": "Greetings",
+    "english": "later",
+    "translations": {
+      "russian": {
+        "word": "позже",
+        "pronunciation": "pozhe"
+      }
+    }
+  },
+  {
+    "category": "Greetings",
+    "english": "hi",
+    "translations": {
+      "russian": {
+        "word": "привет",
+        "pronunciation": "privet"
+      }
+    }
+  },
+  {
+    "category": "Greetings",
+    "english": "hello",
+    "translations": {
+      "russian": {
+        "word": "здравствуйте",
+        "pronunciation": "zdravstvuyte"
+      }
+    }
+  },
+  {
+    "category": "Greetings",
+    "english": "name",
+    "translations": {
+      "russian": {
+        "word": "имя",
+        "pronunciation": "imya"
+      }
+    }
+  },
+  {
+    "category": "Greetings",
+    "english": "yo",
+    "translations": {
+      "russian": {
+        "word": "йо",
+        "pronunciation": "yo"
+      }
+    }
+  },
+  {
+    "category": "Greetings",
+    "english": "hey there!",
+    "translations": {
+      "russian": {
+        "word": "эй!",
+        "pronunciation": "ey!"
+      }
+    }
+  },
+  {
+    "category": "Greetings",
+    "english": "beautiful",
+    "translations": {
+      "russian": {
+        "word": "красивая",
+        "pronunciation": "krasivaya"
+      }
+    }
+  },
+  {
+    "category": "Greetings",
+    "english": "handsome",
+    "translations": {
+      "russian": {
+        "word": "красивый",
+        "pronunciation": "krasivyy"
+      }
+    }
+  },
+  {
+    "category": "Greetings",
+    "english": "grandpa",
+    "translations": {
+      "russian": {
+        "word": "дедушка",
+        "pronunciation": "dedushka"
+      }
+    }
+  },
+  {
+    "category": "Greetings",
+    "english": "grandma",
+    "translations": {
+      "russian": {
+        "word": "бабушка",
+        "pronunciation": "babushka"
+      }
+    }
+  }
+]
