@@ -1,72 +1,47 @@
 import React from 'react';
-import { View, Text, TouchableOpacity, StyleSheet, FlatList } from 'react-native';
-import languages from '../data/languages.json';
+import { FlatList } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
+import { LanguageScreenNavigationProp } from '../types/navigation';
+import { Language } from '../types/language';
+import { theme } from '../themes';
+import Container from '../components/Container/Container';
+import Button from '../components/Button/Button';
+import languages from '../data/languages.json';
 
 const LanguageScreen = () => {
-  const navigation = useNavigation();
+  const navigation = useNavigation<LanguageScreenNavigationProp>();
 
   const handleLanguageSelect = (code: string) => {
     navigation.navigate('CategoryScreen', { selectedLanguage: code });
   };
 
-  const colors = [
-    '#FF5252', '#FF4081', '#E040FB', '#7C4DFF', '#536DFE',
-    '#448AFF', '#18FFFF', '#69F0AE', '#FFFF00'
-  ];
-
-  const renderItem = ({ item, index }: any) => (
-    <TouchableOpacity
-      style={[styles.button, { backgroundColor: colors[index % colors.length] }]}
+  const renderItem = ({ item, index }: { item: Language; index: number }) => (
+    <Button
+      title={item.label}
       onPress={() => handleLanguageSelect(item.code)}
-    >
-      <Text style={styles.buttonText}>{item.label}</Text>
-    </TouchableOpacity>
+      backgroundColor={theme.colors.buttons[index % theme.colors.buttons.length]}
+      textColor={theme.colors.text.secondary}
+      style={{
+        paddingVertical: 14,
+        marginVertical: 5,
+      }}
+    />
   );
 
   return (
-    <View style={styles.container}>
-      <Text style={styles.header}>Select Language</Text>
+    <Container
+      backgroundColor={theme.colors.background.primary}
+      paddingVertical={16}
+    >
       <FlatList
         data={languages}
         renderItem={renderItem}
         keyExtractor={(item) => item.code}
-        contentContainerStyle={styles.buttonContainer}
+        scrollEnabled={false}
+        contentContainerStyle={{ flexGrow: 1, justifyContent: 'center' }}
       />
-    </View>
+    </Container>
   );
 };
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#000', // Black background
-    paddingTop: 60,
-    paddingHorizontal: 20,
-  },
-  header: {
-    color: 'white',
-    fontSize: 24,
-    fontWeight: 'bold',
-    alignSelf: 'center',
-    marginBottom: 20,
-  },
-  buttonContainer: {
-    paddingBottom: 20,
-  },
-  button: {
-    paddingVertical: 12,
-    paddingHorizontal: 20,
-    borderRadius: 12,
-    marginVertical: 6,
-    width: '100%',
-  },
-  buttonText: {
-    color: 'black', // Better contrast on bright buttons
-    fontSize: 18,
-    textAlign: 'center',
-    fontWeight: '600',
-  },
-});
 
 export default LanguageScreen;
